@@ -2,12 +2,19 @@
 
 |  ID  | NAME | SKIN IDs | SKIN NAMES
 | :--: | :--: | :--: | :--: |
-| 1011 | Hulk | | |
-| 1014 | Punisher | | |
-| 1015 | Storm | | |
-| 1016 | Loki | | |
+| 1011 | Hulk | 1011100 | Mighty G-Bomb |
+| | | 1011501 | Green Scar |
+| 1014 | Punisher | 1014100 | Camo |
+| | | 1014500 | Thunderbolts |
+| | | 1014501 | Punisher 2099 |
+| 1015 | Storm | 1015100 | Ivory Breeze |
+| | | 1015500 | Mohawk Rock | 
+| 1016 | Loki | 1016100 | Frost Giant |
+| | | 1016800 | Loki Season 2 |
 | 1017 | Human Torch | | |
-| 1018 | Doctor Strange | | |
+| 1018 | Doctor Strange | 1018100 | Master of Black Magic |
+| | | 1018500 | God Of Magic |
+| | | 1018500 | Sorcerer Supreme of the Galaxy |
 | 1020 | Mantis | | |
 | 1021 | Hawkeye | | |
 | 1022 | Captain America | | |
@@ -41,5 +48,9 @@
 | 1049 | Wolverine | | |
 | 1050 | Invisible Woman | | |
 | 1051 | The Thing | | |
-| 1052 | Iron Fist (Lin Lie) | | |
-| 9999 | Hero Zero (Test Chara) | | |
+| 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
+| | | 1052500 | Sword Master | 
+| 4016 | Galacta Bot | | |
+| 4017 | Galacta Bot (Large) | | |
+| 9501 | Hero Zero | | |
+| 9999 | Hero Zero | | |
