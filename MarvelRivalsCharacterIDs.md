@@ -50,6 +50,8 @@
 | 1051 | The Thing | | |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052500 | Sword Master | 
+| 1053 | Emma Frost | | |
+| 1054 | Phoenix | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta Bot (Large) | | |
 | 9501 | Hero Zero | | |
