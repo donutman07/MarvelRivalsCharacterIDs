@@ -30,20 +30,37 @@
 | 1032 | Squirrel Girl | | |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033800 | White Suit |
-| 1034 | Iron Man | | |
-| 1035 | Venom | | |
-| 1036 | Spider-Man | | |
+| 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
+| | | 1034300 | 1872: STEAM POWER |
+| | | 1034501 | Superior Iron Man |
+| | | 1034800 | Avengers: Endgame |
+| 1035 | Venom | 1035100 | CYAN CLASH |
+| | | 1035101 | ANTI-VENOM |
+| | | 1035300 | Snow Symbiote |
+| | | 1035501 | Space Knight
+| 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
+| | | 1036101 | Chasm |
+| | | 1036501 | Bag-Man Beyond |
+| | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | | |
 | 1038 | Scarlet Witch | | |
 | 1039 | Thor | | |
-| 1040 | Mr. Fantastic | | |
-| 1041 | Winter Soldier | | |
+| 1040 | Mr. Fantastic | 1040100 | First Family |
+| | | 1040100 | The Maker |
+| 1041 | Winter Soldier | 1041100 | Navy Trooper |
+| | | 1041500 | Revolution | 
 | 1042 | Peni Parker | | |
 | 1043 | Star-Lord | | |
 | 1044 | Blade | | |
-| 1045 | Namor | | |
-| 1046 | Adam Warlock | | |
-| 1047 | Jeff the Landshark | | |
+| 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
+| | | 1045500 | Savage Sub-Mariner |
+| | | 1045800 | Black Panther: Wakanda Forever | 
+| 1046 | Adam Warlock | 1046100 | COSMIC JADE |
+| | | 1046301 | Blood Soul | 
+| | | 1046800 | Guardians of the Galaxy Vol. 3 |
+| 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
+| | | 1047300 | Cuddly Fuzzlefin |
+| | | 1047500 | Incognito Dolphin |
 | 1048 | Psylocke | | |
 | 1049 | Wolverine | | |
 | 1050 | Invisible Woman | | |
