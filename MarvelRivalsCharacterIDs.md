@@ -1,4 +1,4 @@
-# HSR Character IDs
+# Marvel Rivals Character IDs
 
 |  ID  | NAME | SKIN IDs | SKIN NAMES
 | :--: | :--: | :--: | :--: |
