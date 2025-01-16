@@ -69,6 +69,11 @@
 | | | 1052500 | Sword Master | 
 | 1053 | Emma Frost | | |
 | 1054 | Phoenix | | |
+| 1057 | Professor X | | |
+| 1058 | Jia Jing | | | 
+| 1059 | Paste Pot Pete | | |
+| 1060 | Colossus | | | 
+| 1061 | Locus | | | 
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta Bot (Large) | | |
 | 9501 | Hero Zero | | |
