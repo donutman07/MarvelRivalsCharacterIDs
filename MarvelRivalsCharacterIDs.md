@@ -10,25 +10,52 @@
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
 | 1016 | Loki | 1016100 | Frost Giant |
+| | | 1016500 | All-Butcher | 
 | | | 1016800 | Loki Season 2 |
 | 1017 | Human Torch | | |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
+| | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
-| | | 1018500 | Sorcerer Supreme of the Galaxy |
-| 1020 | Mantis | | |
-| 1021 | Hawkeye | | |
-| 1022 | Captain America | | |
-| 1023 | Rocket Raccoon | | |
-| 1024 | Hela | | |
-| 1025 | Cloak & Dagger | | |
-| 1026 | Black Panther | | |
-| 1027 | Groot | | |
+| | | 1018501 | Sorcerer Supreme of the Galaxy |
+| 1020 | Mantis | 1020100 | KNOWHERE CORP |
+| | | 1020300 | Galactic Wings
+| | | 1020301 | Jade Maiden
+| | | 1020800 | Guardians of the Galaxy Vol. 3 | 
+| 1021 | Hawkeye | 1021100 | Tiger's Eye |
+| | | 1021300 | Galactic Fangs |
+| | | 1021501 | Freefall |
+| 1022 | Captain America | 1022100 | Captain A.I.M.erica |
+| | | 1022300 | Galactic Talon |
+| | | 1022500 | Captain Gladiator |
+| 1023 | Rocket Raccoon | 1023100 | Rocky |
+| | | 1023300 | Bounty Hunter | 
+| | | 1023301 | Wild Winter |
+| | | 1023801 | Guardians of the Galaxy Vol. 3 |
+| 1024 | Hela | 1024100 | ULTIMATE |
+| | | 1024101 | Will of Galaca |
+| | | 1024301 | Empress of the Cosmos | 
+| | | 1024500 | Goddess of Death |
+| 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
+| | | 1025500 | Growth & Decay |
+| 1026 | Black Panther | 1026100 | ORISHA BLOOD |
+| | | 1026300 | Galactic Claw |
+| | | 1026500 | Bast's Chosen |
+| 1027 | Groot | 1027100 | ABIES ALGAE |
+| | | 1027300 | Holiday Happiness | 
+| | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | | |
-| 1029 | Magik | | |
-| 1030 | Moon Knight | | |
-| 1031 | Luna Snow | | |
-| 1032 | Squirrel Girl | | |
+| 1029 | Magik | 1029100 | AMETHEYST ARMOR |
+| | | 1029301 | Frozen Demon |
+| | | 1029500 | Eldritch Armor |
+| 1030 | Moon Knight | 1030100 | Golden Moonlight |
+| | | 1030100 | Blood Moon Knight |
+| | | 1030300 | General from the Heavens |
+| 1031 | Luna Snow | 1031100 | MINTY BEATS |
+| | | 1031300 | Shining Star |
+| 1032 | Squirrel Girl | 1032100 | ARTIC LEMMUS |
+| | | 1032301 | Cheerful Dragoness |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
+| | | 1033300 | Lion's Heartbeat
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | 1872: STEAM POWER |
@@ -41,6 +68,7 @@
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
 | | | 1036501 | Bag-Man Beyond |
+| | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | | |
 | 1038 | Scarlet Witch | | |
@@ -66,6 +94,7 @@
 | 1050 | Invisible Woman | | |
 | 1051 | The Thing | | |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
+| | | 1052300 | Lion's Gaze |
 | | | 1052500 | Sword Master | 
 | 1053 | Emma Frost | | |
 | 1054 | Phoenix | | |
@@ -87,3 +116,8 @@
 | ???? | The Hood | | | 
 | ???? | Valkyrie | | | 
 | ???? | M.O.D.O.K. | | |
+| ???? | Beast | | | 
+| ???? | Julibee | | | 
+| ???? | Nightcrawler | | | 
+| ???? | Rogue | | | 
+| ???? | Gambit | | |
