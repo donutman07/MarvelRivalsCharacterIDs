@@ -103,6 +103,11 @@
 | 1059 | Paste Pot Pete | | |
 | 1060 | Colossus | | | 
 | 1061 | Locus | | | 
+| 1062 | Beast | | | 
+| 1063 | Nightcrawler | | |
+| 1064 | Julibee | | |
+| 1065 | Rogue | | |
+| 1066 | Gambit | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta Bot (Large) | | |
 | 9501 | Hero Zero | | |
@@ -116,8 +121,3 @@
 | ???? | The Hood | | | 
 | ???? | Valkyrie | | | 
 | ???? | M.O.D.O.K. | | |
-| ???? | Beast | | | 
-| ???? | Julibee | | | 
-| ???? | Nightcrawler | | | 
-| ???? | Rogue | | | 
-| ???? | Gambit | | |
