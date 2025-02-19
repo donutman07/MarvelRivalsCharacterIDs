@@ -109,7 +109,8 @@
 | 1065 | Rogue | | |
 | 1066 | Gambit | | |
 | 4016 | Galacta Bot | | |
-| 4017 | Galacta Bot (Large) | | |
+| 4017 | Galacta | | |
+| 4018 | Galacta Bot (Large) | | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
