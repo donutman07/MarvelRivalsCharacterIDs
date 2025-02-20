@@ -60,6 +60,7 @@
 | | | 1031301 | Mirae 2099 |
 | 1032 | Squirrel Girl | 1032100 | ARTIC LEMMUS |
 | | | 1032301 | Cheerful Dragoness |
+| | | 1032500 | Urban Hunter |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033300 | Lion's Heartbeat
 | | | 1033800 | White Suit |
