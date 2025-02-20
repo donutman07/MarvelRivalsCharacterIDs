@@ -3,6 +3,7 @@
 |  ID  | NAME | SKIN IDs | SKIN NAMES
 | :--: | :--: | :--: | :--: |
 | 1011 | Hulk | 1011100 | Mighty G-Bomb |
+| | | 1011500 | Punk Rage
 | | | 1011501 | Green Scar |
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014500 | Thunderbolts |
@@ -10,9 +11,12 @@
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
 | 1016 | Loki | 1016100 | Frost Giant |
-| | | 1016500 | All-Butcher | 
+| | | 1016500 | PRESIDENTIAL ATTIRE |
+| | | 1016501 | All-Butcher | 
 | | | 1016800 | Loki Season 2 |
-| 1017 | Human Torch | | |
+| 1017 | Human Torch | 1017100 | First Family |
+| | | 1017101 | Blood Blaze |
+| | | 1017201 | Negative Zone Gladiator |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
@@ -45,6 +49,7 @@
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | | |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
+| | | 1029300 | Punkchild
 | | | 1029301 | Frozen Demon |
 | | | 1029500 | Eldritch Armor |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
@@ -52,6 +57,7 @@
 | | | 1030300 | General from the Heavens |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
+| | | 1031301 | Mirae 2099 |
 | 1032 | Squirrel Girl | 1032100 | ARTIC LEMMUS |
 | | | 1032301 | Cheerful Dragoness |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -59,26 +65,43 @@
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | 1872: STEAM POWER |
+| | | 1034301 | Blood Edge Armor | 
 | | | 1034501 | Superior Iron Man |
 | | | 1034800 | Avengers: Endgame |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035300 | Snow Symbiote |
-| | | 1035501 | Space Knight
+| | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
+| | | 1036500 | 2099: SPIDER-PUNK |
 | | | 1036501 | Bag-Man Beyond |
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036800 | Spider-Man: No Way Home |
-| 1037 | Magneto | | |
-| 1038 | Scarlet Witch | | |
-| 1039 | Thor | | |
+| 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
+| | | 1037101 | Will of Glacata |
+| | | 1037500 | Master of Magnetism | 
+| | | 1037501 | King Magnus |
+| 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
+| | | 1038101 | NYX WEAVER |
+| | | 1038501 | Emporium Matron |
+| | | 1038800 | Doctor Strange in the Multiverse of Madness |
+| 1039 | Thor | 1039100 | MIDGARD UMBER |
+| | | 1039500 | HERALD OF THUNDER | 
+| | | 1039501 | Reborn from Ragnarok | 
+| | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
-| | | 1040100 | The Maker |
+| | | 1040300 | The Life Fantastic |
+| | | 1040500 | The Maker |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041500 | Revolution | 
-| 1042 | Peni Parker | | |
-| 1043 | Star-Lord | | |
+| 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
+| | | 1042101 | BLue Tarantula | 
+| | | 1042500 | VEN#M |
+| 1043 | Star-Lord | 1043100 | JOVIAL STAR |
+| | | 1043300 | Lion's Mane |
+| | | 1043500 | MASTER OF THE SUN |
+| | | 1043800 | Guardians of the Galaxy Vol. 3 |
 | 1044 | Blade | | |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045500 | Savage Sub-Mariner |
@@ -89,10 +112,18 @@
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047500 | Incognito Dolphin |
-| 1048 | Psylocke | | |
-| 1049 | Wolverine | | |
-| 1050 | Invisible Woman | | |
-| 1051 | The Thing | | |
+| 1048 | Psylocke | 1048100 | Kirisaki Sakura |
+| | | 1048300 | Blood Kariudo |
+| | | 1048500 | Vengeance |
+| 1049 | Wolverine | 1049100 | Lone Wolf |
+| | | 1049300 | Blood Berserker |
+| | | 1049800 | Deadpool & Wolverine |
+| 1050 | Invisible Woman | 1050100 | First Family |
+| | | 1050101 | Blood Shield |
+| | | 1050300 | The Life Fantastic |
+| | | 1050500 | Malice | 
+| 1051 | The Thing | 1051100 | First Family |
+| | | 1051500 | Trench Coat |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
 | | | 1052500 | Sword Master | 
