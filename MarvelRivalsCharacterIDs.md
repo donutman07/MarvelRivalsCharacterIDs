@@ -37,7 +37,7 @@
 | | | 1023301 | Wild Winter |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
-| | | 1024101 | Will of Galaca |
+| | | 1024101 | Will of Galacta |
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
