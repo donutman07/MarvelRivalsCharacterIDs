@@ -94,6 +94,7 @@
 | | | 1040300 | The Life Fantastic |
 | | | 1040500 | The Maker |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
+| | | 1041300 | Blood Soldier | 
 | | | 1041500 | Revolution | 
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | BLue Tarantula | 
