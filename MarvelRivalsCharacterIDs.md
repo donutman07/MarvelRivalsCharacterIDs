@@ -31,6 +31,7 @@
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
 | | | 1022500 | Captain Gladiator |
+| | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023300 | Bounty Hunter | 
 | | | 1023301 | Wild Winter |
