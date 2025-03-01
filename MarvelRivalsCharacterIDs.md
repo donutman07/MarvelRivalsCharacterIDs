@@ -46,7 +46,8 @@
 | | | 1026300 | Galactic Claw |
 | | | 1026500 | Bast's Chosen |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
-| | | 1027300 | Holiday Happiness | 
+| | | 1027302 | Holiday Happiness | 
+| | | 1027500 | Carved Traveler |
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | | |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
