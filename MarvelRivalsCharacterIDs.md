@@ -10,6 +10,7 @@
 | | | 1014501 | Punisher 2099 |
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
+| | | 1015502 | GODDESS OF THUNDER |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
@@ -41,9 +42,11 @@
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
+| | | 1025301 | Twilight Duo |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026300 | Galactic Claw |
+| | | 1026301 | Thrice-Cursed King |
 | | | 1026500 | Bast's Chosen |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
 | | | 1027302 | Holiday Happiness | 
@@ -74,6 +77,7 @@
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035300 | Snow Symbiote |
+| | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
@@ -100,7 +104,7 @@
 | | | 1041300 | Blood Soldier | 
 | | | 1041500 | Revolution | 
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
-| | | 1042101 | BLue Tarantula | 
+| | | 1042101 | Blue Tarantula | 
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043300 | Lion's Mane |
