@@ -38,7 +38,7 @@
 | | | 1023301 | Wild Winter |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
-| | | 1024101 | Will of Galacta |
+| | | 1024101 | WILL OF GALACTA |
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
@@ -86,7 +86,7 @@
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
-| | | 1037101 | Will of Glacata |
+| | | 1037101 | WILL OF GALACTA |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
@@ -115,6 +115,7 @@
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
+| | | 1046101 | WILL OF GALACTA |
 | | | 1046301 | Blood Soul | 
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
