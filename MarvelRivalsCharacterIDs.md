@@ -28,6 +28,7 @@
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021300 | Galactic Fangs |
+| | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
@@ -60,6 +61,7 @@
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030100 | Blood Moon Knight |
 | | | 1030300 | General from the Heavens |
+| | | 1030800 | Fist Of Vengeance |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
@@ -76,6 +78,7 @@
 | | | 1034800 | Avengers: Endgame |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
+| | | 1035102 | Hyper Orange |
 | | | 1035300 | Snow Symbiote |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
@@ -96,6 +99,7 @@
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
+| | | 1039502 | Rune King
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040300 | The Life Fantastic |
