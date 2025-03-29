@@ -59,7 +59,7 @@
 | | | 1029301 | Frozen Demon |
 | | | 1029500 | Eldritch Armor |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
-| | | 1030100 | Blood Moon Knight |
+| | | 1030101 | Blood Moon Knight |
 | | | 1030300 | General from the Heavens |
 | | | 1030800 | Fist Of Vengeance |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
