@@ -17,7 +17,7 @@
 | | | 1016800 | Loki Season 2 |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
-| | | 1017201 | Negative Zone Gladiator |
+| | | 1017500 | Negative Zone Gladiator |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
