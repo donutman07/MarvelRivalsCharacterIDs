@@ -127,6 +127,7 @@
 | | | 1043800 | Guardians of the Galaxy Vol. 3 |
 | 1044 | Blade | | |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
+| | | 1045101 | Will of Galacta |
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
