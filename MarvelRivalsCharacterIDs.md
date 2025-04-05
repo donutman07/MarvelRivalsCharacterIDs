@@ -5,6 +5,7 @@
 | 1011 | Hulk | 1011100 | Mighty G-Bomb |
 | | | 1011500 | Punk Rage
 | | | 1011501 | Green Scar |
+| | | 1011502 | Joe Fixit |
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
@@ -23,8 +24,9 @@
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | 1020 | Mantis | 1020100 | KNOWHERE CORP |
-| | | 1020300 | Galactic Wings
-| | | 1020301 | Jade Maiden
+| | | 1020300 | Galactic Wings |
+| | | 1020301 | Jade Maiden |
+| | | 1020500 | Flora Maiden |
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021300 | Galactic Fangs |
@@ -33,6 +35,7 @@
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
 | | | 1022500 | Captain Gladiator |
+| | | 1022501 | Star Spangled Style |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023300 | Bounty Hunter | 
@@ -43,6 +46,7 @@
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
+| | | 1025300 | Dance Partner |
 | | | 1025301 | Twilight Duo |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
@@ -58,6 +62,7 @@
 | | | 1029300 | Punkchild
 | | | 1029301 | Frozen Demon |
 | | | 1029500 | Eldritch Armor |
+| | | 1029501 | Retro X-Uniform |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | General from the Heavens |
@@ -65,11 +70,14 @@
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
+| | | 1031302 | Nolaehaneun Manyeo |
 | 1032 | Squirrel Girl | 1032100 | ARTIC LEMMUS |
+| | | 1032300 | Nut Rocker
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032500 | Urban Hunter |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
-| | | 1033300 | Lion's Heartbeat
+| | | 1033300 | Lion's Heartbeat |
+| | | 1033500 | Red RUnway Veil |
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | 1872: STEAM POWER |
@@ -84,6 +92,7 @@
 | | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
+| | | 1036300 | Spider-Oni
 | | | 1036500 | 2099: SPIDER-PUNK |
 | | | 1036501 | Bag-Man Beyond |
 | | | 1036503 | Marvel's Spider-Man 2 | 
@@ -113,6 +122,7 @@
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043300 | Lion's Mane |
 | | | 1043500 | MASTER OF THE SUN |
+| | | 1043501 | King of Spartax |
 | | | 1043800 | Guardians of the Galaxy Vol. 3 |
 | 1044 | Blade | | |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
@@ -128,6 +138,7 @@
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048500 | Vengeance |
+| | | 1048501 | Retro X-Uniform
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
 | | | 1049800 | Deadpool & Wolverine |
@@ -140,7 +151,10 @@
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
 | | | 1052500 | Sword Master | 
-| 1053 | Emma Frost | | |
+| | | 1052501 | Immortal Weapon of Agamotto |
+| 1053 | Emma Frost | 1053100 | Blue Sapphire |
+| | | 1053102 | Golden Diamond |
+| | | 1053500 | X-Revolution |
 | 1054 | Phoenix | | |
 | 1057 | Professor X | | |
 | 1058 | Jia Jing | | | 
