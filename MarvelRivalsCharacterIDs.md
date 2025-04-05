@@ -158,6 +158,7 @@
 | | | 1053102 | Golden Diamond |
 | | | 1053500 | X-Revolution |
 | 1054 | Phoenix | | |
+| 1055 | Daredevil | | |
 | 1057 | Professor X | | |
 | 1058 | Jia Jing | | | 
 | 1059 | Paste Pot Pete | | |
@@ -177,7 +178,6 @@
 | ???? | Angela | | | 
 | ???? | Captain Marvel | | | 
 | ???? | Cyclops | | | 
-| ???? | Daredevil | | |
 | ???? | Deadpool | | | 
 | ???? | Hit-Monkey | | | 
 | ???? | The Hood | | | 
