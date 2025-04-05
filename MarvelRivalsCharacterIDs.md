@@ -77,7 +77,7 @@
 | | | 1032500 | Urban Hunter |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033300 | Lion's Heartbeat |
-| | | 1033500 | Red RUnway Veil |
+| | | 1033500 | Red Runway Veil |
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | 1872: STEAM POWER |
