@@ -72,7 +72,7 @@
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
 | | | 1031302 | Nolaehaneun Manyeo |
-| 1032 | Squirrel Girl | 1032100 | ARTIC LEMMUS |
+| 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032500 | Urban Hunter |
