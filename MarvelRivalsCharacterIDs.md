@@ -65,7 +65,7 @@
 | | | 1029501 | Retro X-Uniform |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
-| | | 1030300 | General from the Heavens |
+| | | 1030300 | Lunar General |
 | | | 1030800 | Fist Of Vengeance |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
