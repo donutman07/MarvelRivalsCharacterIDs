@@ -111,7 +111,7 @@
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
-| | | 1039502 | Rune King
+| | | 1039502 | Lord of Asgard |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040300 | The Life Fantastic |
