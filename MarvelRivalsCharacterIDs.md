@@ -23,6 +23,7 @@
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
+| | | 1018800 | Doctor Strange In the Multiverse of Madness |
 | 1020 | Mantis | 1020100 | KNOWHERE CORP |
 | | | 1020300 | Galactic Wings |
 | | | 1020301 | Jade Maiden |
@@ -59,8 +60,9 @@
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | | |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
-| | | 1029300 | Punkchild
+| | | 1029300 | Punkchild |
 | | | 1029301 | Frozen Demon |
+| | | 1029302 | Rosy Resilience |
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
@@ -72,6 +74,7 @@
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
 | | | 1031302 | Nolaehaneun Manyeo |
+| | | 1031304 | Plasma Pulse |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker
 | | | 1032301 | Cheerful Dragoness |
@@ -118,9 +121,11 @@
 | | | 1040500 | The Maker |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041300 | Blood Soldier | 
+| | | 1041302 | Winter's Wrath |
 | | | 1041500 | Revolution | 
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
+| | | 1042300 | Yatsukahagi |
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043300 | Lion's Mane |
@@ -142,7 +147,8 @@
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048500 | Vengeance |
-| | | 1048501 | Retro X-Uniform
+| | | 1048501 | Retro X-Uniform |
+| | | 1048503 | Phantom Purple |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
 | | | 1049800 | Deadpool & Wolverine |
