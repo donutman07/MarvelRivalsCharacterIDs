@@ -177,6 +177,11 @@
 | 1064 | Julibee | | |
 | 1065 | Rogue | | |
 | 1066 | Gambit | | |
+| 1067 | Armor | | | 
+| 1068 | Hive | | |
+| 1069 | White Fox | | |
+| 1070 | Forge | | | 
+| 1071 | Amaranth | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | | |
 | 4018 | Galacta Bot (Large) | | |
