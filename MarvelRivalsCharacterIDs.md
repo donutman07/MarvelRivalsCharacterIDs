@@ -13,6 +13,7 @@
 | | | 1015500 | Mohawk Rock | 
 | | | 1015502 | GODDESS OF THUNDER |
 | 1016 | Loki | 1016100 | Frost Giant |
+| | | 1016300 | Shin Sagi-Shi |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
 | | | 1016800 | Loki Season 2 |
@@ -45,6 +46,7 @@
 | 1024 | Hela | 1024100 | ULTIMATE |
 | | | 1024101 | WILL OF GALACTA |
 | | | 1024301 | Empress of the Cosmos | 
+| | | 1024302 | Yami no Karasu |
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
