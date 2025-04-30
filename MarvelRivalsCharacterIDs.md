@@ -56,6 +56,7 @@
 | | | 1026300 | Galactic Claw |
 | | | 1026301 | Thrice-Cursed King |
 | | | 1026500 | Bast's Chosen |
+| | | 1026501 | Damisa-Sarki |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
 | | | 1027302 | Holiday Happiness | 
 | | | 1027500 | Carved Traveler |
@@ -125,6 +126,7 @@
 | | | 1041300 | Blood Soldier | 
 | | | 1041302 | Winter's Wrath |
 | | | 1041500 | Revolution | 
+| | | 1041800 | Thunderbolts* |
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
 | | | 1042300 | Yatsukahagi |
