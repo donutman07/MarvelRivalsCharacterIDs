@@ -155,6 +155,7 @@
 | | | 1048503 | Phantom Purple |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
+| | | 1049500 | Patch |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
