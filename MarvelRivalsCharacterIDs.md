@@ -42,6 +42,7 @@
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023300 | Bounty Hunter | 
 | | | 1023301 | Wild Winter |
+| | | 1023302 | Sunshine Raccoon |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
 | | | 1024101 | WILL OF GALACTA |
@@ -81,6 +82,7 @@
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker
 | | | 1032301 | Cheerful Dragoness |
+| | | 1032302 | Sunshine Squirrel |
 | | | 1032500 | Urban Hunter |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033300 | Lion's Heartbeat |
