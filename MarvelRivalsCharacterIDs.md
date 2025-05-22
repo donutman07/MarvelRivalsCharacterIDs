@@ -113,6 +113,7 @@
 | | | 1037501 | King Magnus |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
+| | | 1038300 | Immortal Soverign |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
@@ -145,6 +146,7 @@
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
+| | | 1046300 | Immortal Avatar |
 | | | 1046301 | Blood Soul | 
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
