@@ -113,7 +113,7 @@
 | | | 1037501 | King Magnus |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
-| | | 1038300 | Immortal Soverign |
+| | | 1038300 | Immortal Sovereign |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
