@@ -66,6 +66,7 @@
 | | | 1027500 | Carved Traveler |
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | 1028100 | Mechanical Phantom |
+| | | 1028101 | Golden Ultron |
 | | | 1028500 | X-Tron |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029300 | Punkchild |
