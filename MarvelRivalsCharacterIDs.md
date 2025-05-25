@@ -11,6 +11,7 @@
 | | | 1014501 | Punisher 2099 |
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
+| | | 1015501 | Ultimate Wind-Rider |
 | | | 1015502 | GODDESS OF THUNDER |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016300 | Shin Sagi-Shi |
@@ -34,6 +35,7 @@
 | | | 1021300 | Galactic Fangs |
 | | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
+| | | 1021502 | Binary Arrow |
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
 | | | 1022500 | Captain Gladiator |
@@ -59,10 +61,12 @@
 | | | 1026500 | Bast's Chosen |
 | | | 1026501 | Damisa-Sarki |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
+| | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
 | | | 1027500 | Carved Traveler |
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
-| 1028 | Ultron | | |
+| 1028 | Ultron | 1028100 | Mechanical Phantom |
+| | | 1028500 | X-Tron |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029300 | Punkchild |
 | | | 1029301 | Frozen Demon |
@@ -109,6 +113,7 @@
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
+| | | 1037300 | Binary Sword |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
@@ -125,6 +130,7 @@
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040300 | The Life Fantastic |
 | | | 1040500 | The Maker |
+| | | 1040501 | Future Foundation |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041300 | Blood Soldier | 
 | | | 1041302 | Winter's Wrath |
@@ -166,12 +172,14 @@
 | | | 1050300 | The Life Fantastic |
 | | | 1050500 | Malice | 
 | 1051 | The Thing | 1051100 | First Family |
+| | | 1051101 | The Unlimited
 | | | 1051500 | Trench Coat |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
+| | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
 | | | 1053500 | X-Revolution |
 | 1054 | Phoenix | | |
