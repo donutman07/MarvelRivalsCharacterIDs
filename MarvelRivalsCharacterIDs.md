@@ -172,9 +172,11 @@
 | | | 1050101 | Blood Shield |
 | | | 1050300 | The Life Fantastic |
 | | | 1050500 | Malice | 
+| | | 1050501 | Future Foundation |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited
 | | | 1051500 | Trench Coat |
+| | | 1051501 | Future Foundation |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
 | | | 1052500 | Sword Master | 
