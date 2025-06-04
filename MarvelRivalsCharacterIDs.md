@@ -158,6 +158,7 @@
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
+| | | 1047301 | Sunshine Land Shark |
 | | | 1047500 | Incognito Dolphin |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
@@ -166,6 +167,7 @@
 | | | 1048503 | Phantom Purple |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
+| | | 1049301 | Weapon X |
 | | | 1049500 | Patch |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
@@ -205,6 +207,7 @@
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | | |
 | 4018 | Galacta Bot (Large) | | |
+| 4019 | Ultron Bot | | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
