@@ -21,6 +21,8 @@
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
 | | | 1017500 | Negative Zone Gladiator |
+| | | 1017501 | Future Foundation |
+| | | 1017503 | Future Foundation (Alt.) |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
@@ -69,6 +71,7 @@
 | | | 1028101 | Golden Ultron |
 | | | 1028500 | X-Tron |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
+| | | 1029101 | WILL OF GALACTA |
 | | | 1029300 | Punkchild |
 | | | 1029301 | Frozen Demon |
 | | | 1029302 | Rosy Resilience |
@@ -78,6 +81,7 @@
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
 | | | 1030500 | Mister Knight |
+| | | 1030501 | Phoenix Knight |
 | | | 1030800 | Fist Of Vengeance |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
@@ -102,6 +106,7 @@
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035102 | Hyper Orange |
+| | | 1035103 | Pink Bubble |
 | | | 1035300 | Snow Symbiote |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
@@ -132,6 +137,7 @@
 | | | 1040300 | The Life Fantastic |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
+| | | 1040502 | Future Foundation (Alt.) |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041300 | Blood Soldier | 
 | | | 1041302 | Winter's Wrath |
@@ -175,12 +181,15 @@
 | | | 1050300 | The Life Fantastic |
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
+| | | 1050503 | Future Foundation (Alt.) |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited
 | | | 1051500 | Trench Coat |
 | | | 1051501 | Future Foundation |
+| | | 1051503 | Future Foundation (Alt.) |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
+| | | 1052301 | Binary Fist |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
