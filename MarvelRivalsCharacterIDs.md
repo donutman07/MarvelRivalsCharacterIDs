@@ -7,8 +7,10 @@
 | | | 1011501 | Green Scar |
 | | | 1011502 | Joe Fixit |
 | 1014 | Punisher | 1014100 | Camo |
+| | | 1014300 | Dangan Ronin |
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
+| | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
@@ -132,6 +134,7 @@
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
 | | | 1039502 | Lord of Asgard |
+| | | 1039503 | Majestic Raiment |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040300 | The Life Fantastic |
