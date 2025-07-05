@@ -49,6 +49,9 @@
 | | | 1023300 | Bounty Hunter | 
 | | | 1023301 | Wild Winter |
 | | | 1023302 | Sunshine Raccoon |
+| | | 1023303 | Radiant Reef |
+| | | 1023304 | Bluebell Breeze |
+| | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
 | | | 1024101 | WILL OF GALACTA |
@@ -60,6 +63,7 @@
 | | | 1025301 | Twilight Duo |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
+| | | 1026101 | Golden Panther
 | | | 1026300 | Galactic Claw |
 | | | 1026301 | Thrice-Cursed King |
 | | | 1026500 | Bast's Chosen |
@@ -68,6 +72,7 @@
 | | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
 | | | 1027500 | Carved Traveler |
+| | | 1027501 | Symbiote Flora |
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | 1028100 | Mechanical Phantom |
 | | | 1028101 | Golden Ultron |
@@ -95,6 +100,7 @@
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032302 | Sunshine Squirrel |
 | | | 1032500 | Urban Hunter |
+| | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033300 | Lion's Heartbeat |
 | | | 1033500 | Red Runway Veil |
@@ -117,6 +123,7 @@
 | | | 1036300 | Spider-Oni
 | | | 1036500 | 2099: SPIDER-PUNK |
 | | | 1036501 | Bag-Man Beyond |
+| | | 1036502 | Black Suit |
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
@@ -127,6 +134,8 @@
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
 | | | 1038300 | Immortal Sovereign |
+| | | 1038302 | Majestic Mauve |
+| | | 1038303 | Neon Nimbus |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
@@ -159,9 +168,12 @@
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045101 | Will of Galacta |
 | | | 1045500 | Savage Sub-Mariner |
+| | | 1045501 | Retro X-Uniform |
+| | | 1045502 | Phoenix King |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
+| | | 1046102 | King in White
 | | | 1046300 | Immortal Avatar |
 | | | 1046301 | Blood Soul | 
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
@@ -176,8 +188,9 @@
 | | | 1048503 | Phantom Purple |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
-| | | 1049301 | Weapon X |
 | | | 1049500 | Patch |
+| | | 1049501 | Weapon X |
+| | | 1049502 | Weapon PhoeniX |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
@@ -185,6 +198,8 @@
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
 | | | 1050503 | Future Foundation (Alt.) |
+| | | 1050504 | Midnight Majesty |
+| | | 1050505 | Dune Daisy |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited
 | | | 1051500 | Trench Coat |
@@ -199,7 +214,10 @@
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
 | | | 1053500 | X-Revolution |
-| 1054 | Phoenix | | |
+| | | 1053501 | Phoenix Diamond |
+| 1054 | Phoenix | 1054100 | The Return of Jean Grey |
+| | | 1054101 | Emerald Flames |
+| | | 1054300 | Chaos Phoenix |
 | 1055 | Daredevil | | |
 | 1057 | Professor X | | |
 | 1058 | Jia Jing | | | 
