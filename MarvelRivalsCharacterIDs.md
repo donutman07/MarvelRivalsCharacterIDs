@@ -184,6 +184,7 @@
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047301 | Sunshine Land Shark |
 | | | 1047500 | Incognito Dolphin |
+| | | 1047501 | Devouring Duo |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048500 | Vengeance |
