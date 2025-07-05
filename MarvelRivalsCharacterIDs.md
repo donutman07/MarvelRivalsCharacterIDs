@@ -183,6 +183,8 @@
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047301 | Sunshine Land Shark |
+| | | 1047303 | Verdant Vortex |
+| | | 1047304 | Blue Barrage |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
