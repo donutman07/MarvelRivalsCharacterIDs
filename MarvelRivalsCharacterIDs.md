@@ -44,6 +44,7 @@
 | | | 1022300 | Galactic Talon |
 | | | 1022500 | Captain Gladiator |
 | | | 1022501 | Star Spangled Style |
+| | | 1022502 | Captain Klyntar |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023300 | Bounty Hunter | 
@@ -125,6 +126,8 @@
 | | | 1036501 | Bag-Man Beyond |
 | | | 1036502 | Black Suit |
 | | | 1036503 | Marvel's Spider-Man 2 | 
+| | | 1036504 | Future Foundation |
+| | | 1036506 | Future FOundation (Alt.) |
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
