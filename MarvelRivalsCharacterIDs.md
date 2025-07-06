@@ -127,7 +127,7 @@
 | | | 1036502 | Black Suit |
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036504 | Future Foundation |
-| | | 1036506 | Future FOundation (Alt.) |
+| | | 1036506 | Future Foundation (Alt.) |
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
