@@ -17,6 +17,8 @@
 | | | 1015502 | GODDESS OF THUNDER |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016300 | Shin Sagi-Shi |
+| | | 1016301 | Robe of Relaxation |
+| | | 1016303 | Tidal Trickery |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
 | | | 1016800 | Loki Season 2 |
@@ -95,7 +97,10 @@
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
 | | | 1031302 | Nolaehaneun Manyeo |
+| | | 1031303 | Cool Summer |
 | | | 1031304 | Plasma Pulse |
+| | | 1031306 | Radiant Radiance |
+| | | 1031307 | Prismatic Pulse |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker
 | | | 1032301 | Cheerful Dragoness |
@@ -143,6 +148,8 @@
 | | | 1038501 | Emporium Matron |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
+| | | 1039300 | Worthy Waves |
+| | | 1039302 | Azure Skies |
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
 | | | 1039502 | Lord of Asgard |
@@ -191,7 +198,10 @@
 | | | 1048300 | Blood Kariudo |
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
+| | | 1048502 | Breezy Butterfly |
 | | | 1048503 | Phantom Purple |
+| | | 1048504 | Violet  Veil |
+| | | 1048505 | Moonlit Mirage |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
 | | | 1049500 | Patch |
@@ -207,7 +217,8 @@
 | | | 1050504 | Midnight Majesty |
 | | | 1050505 | Dune Daisy |
 | 1051 | The Thing | 1051100 | First Family |
-| | | 1051101 | The Unlimited
+| | | 1051101 | The Unlimited |
+| | | 1051301 | Sunshine Thing |
 | | | 1051500 | Trench Coat |
 | | | 1051501 | Future Foundation |
 | | | 1051503 | Future Foundation (Alt.) |
