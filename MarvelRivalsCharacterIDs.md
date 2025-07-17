@@ -15,6 +15,7 @@
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
 | | | 1015502 | GODDESS OF THUNDER |
+| | | 1015503 | Symbiote Storm |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016300 | Shin Sagi-Shi |
 | | | 1016301 | Robe of Relaxation |
