@@ -28,6 +28,7 @@
 | | | 1017500 | Negative Zone Gladiator |
 | | | 1017501 | Future Foundation |
 | | | 1017503 | Future Foundation (Alt.) |
+| | | 1017800 | The Fantastic Four: First Steps |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018500 | God Of Magic |
@@ -161,6 +162,7 @@
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
 | | | 1040502 | Future Foundation (Alt.) |
+| | | 1040800 | The Fantastic Four: First Steps |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041300 | Blood Soldier | 
 | | | 1041302 | Winter's Wrath |
@@ -217,12 +219,14 @@
 | | | 1050503 | Future Foundation (Alt.) |
 | | | 1050504 | Midnight Majesty |
 | | | 1050505 | Dune Daisy |
+| | | 1050800 | The Fantastic Four: First Steps |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited |
 | | | 1051301 | Sunshine Thing |
 | | | 1051500 | Trench Coat |
 | | | 1051501 | Future Foundation |
 | | | 1051503 | Future Foundation (Alt.) |
+| | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052300 | Lion's Gaze |
 | | | 1052301 | Binary Fist |
