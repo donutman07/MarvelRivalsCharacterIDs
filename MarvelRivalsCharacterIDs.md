@@ -35,6 +35,7 @@
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
 | 1020 | Mantis | 1020100 | KNOWHERE CORP |
+| | | 1020101 | WILL OF GALACTA |
 | | | 1020300 | Galactic Wings |
 | | | 1020301 | Jade Maiden |
 | | | 1020500 | Flora Maiden |
@@ -62,6 +63,7 @@
 | | | 1024101 | WILL OF GALACTA |
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024302 | Yami no Karasu |
+| | | 1024303 | Queen in Black |
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
@@ -113,6 +115,7 @@
 | | | 1033300 | Lion's Heartbeat |
 | | | 1033500 | Red Runway Veil |
 | | | 1033501 | Mrs. Barnes |
+| | | 1033502 | Phoenix Widow |
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | 1872: STEAM POWER |
@@ -177,7 +180,9 @@
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
 | | | 1043800 | Guardians of the Galaxy Vol. 3 |
-| 1044 | Blade | | |
+| 1044 | Blade | 1044100 | Daybreak |
+| | | 1044102 | Emerald Blade |
+| | | 1044300 | Polarity Edge |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045101 | Will of Galacta |
 | | | 1045500 | Savage Sub-Mariner |
@@ -225,6 +230,7 @@
 | | | 1051301 | Sunshine Thing |
 | | | 1051500 | Trench Coat |
 | | | 1051501 | Future Foundation |
+| | | 1051502 | Symbiote-Thing |
 | | | 1051503 | Future Foundation (Alt.) |
 | | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
