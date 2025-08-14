@@ -68,6 +68,7 @@
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
 | | | 1025301 | Twilight Duo |
+| | | 1025302 | Polarity Bond |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther
@@ -127,6 +128,7 @@
 | | | 1035102 | Hyper Orange |
 | | | 1035103 | Pink Bubble |
 | | | 1035300 | Snow Symbiote |
+| | | 1035301 | REBORN KING IN BLACK |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
@@ -168,6 +170,7 @@
 | | | 1040800 | The Fantastic Four: First Steps |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
 | | | 1041300 | Blood Soldier | 
+| | | 1041301 | Polarity Knight |
 | | | 1041302 | Winter's Wrath |
 | | | 1041500 | Revolution | 
 | | | 1041800 | Thunderbolts* |
