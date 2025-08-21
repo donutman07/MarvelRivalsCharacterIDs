@@ -31,6 +31,7 @@
 | | | 1017800 | The Fantastic Four: First Steps |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018300 | Sorcerer Immortal | 
+| | | 1018301 | Old Man Strange |
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
@@ -122,6 +123,7 @@
 | | | 1034300 | 1872: STEAM POWER |
 | | | 1034301 | Blood Edge Armor | 
 | | | 1034501 | Superior Iron Man |
+| | | 1034502 | Extrembiote Armor |
 | | | 1034800 | Avengers: Endgame |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
@@ -241,6 +243,7 @@
 | | | 1052301 | Binary Fist |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
+| | | 1052502 | Phoenix Fist |
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
