@@ -121,8 +121,8 @@
 | | | 1033502 | Phoenix Widow |
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
-| | | 1034300 | 1872: STEAM POWER |
-| | | 1034301 | Blood Edge Armor | 
+| | | 1034300 | Blood Edge Armor | 
+| | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
 | | | 1034800 | Avengers: Endgame |
