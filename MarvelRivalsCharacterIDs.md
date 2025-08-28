@@ -151,6 +151,7 @@
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
 | | | 1038300 | Immortal Sovereign |
+| | | 1038301 | Phoenix Chaos | 
 | | | 1038302 | Majestic Mauve |
 | | | 1038303 | Neon Nimbus |
 | | | 1038500 | Chaos Gown |
