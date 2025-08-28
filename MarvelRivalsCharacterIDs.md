@@ -42,6 +42,7 @@
 | | | 1020500 | Flora Maiden |
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
+| | | 1021101 | WILL OF GALACTA |
 | | | 1021300 | Galactic Fangs |
 | | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
