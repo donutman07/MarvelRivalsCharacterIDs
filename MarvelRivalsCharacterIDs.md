@@ -181,6 +181,7 @@
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
 | | | 1042300 | Yatsukahagi |
+| | | 1042301 | Wasteland Mech |
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043300 | Lion's Mane |
