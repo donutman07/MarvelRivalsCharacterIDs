@@ -266,6 +266,7 @@
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
 | | | 1054101 | Emerald Flames |
 | | | 1054300 | Chaos Phoenix |
+| | | 1054500 | Dark Phoenix | 
 | 1055 | Daredevil | | |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
