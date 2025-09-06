@@ -19,6 +19,7 @@
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016300 | Shin Sagi-Shi |
 | | | 1016301 | Robe of Relaxation |
+| | | 1016302 | Immortal Firebird |
 | | | 1016303 | Tidal Trickery |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
@@ -30,6 +31,7 @@
 | | | 1017503 | Future Foundation (Alt.) |
 | | | 1017800 | The Fantastic Four: First Steps |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
+| | | 1018101 | Astral Wanderer |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018301 | Old Man Strange |
 | | | 1018500 | God Of Magic |
@@ -44,6 +46,7 @@
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021101 | WILL OF GALACTA |
 | | | 1021300 | Galactic Fangs |
+| | | 1021301 | Old Man Hawkeye |
 | | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
 | | | 1021502 | Binary Arrow |
@@ -52,6 +55,7 @@
 | | | 1022500 | Captain Gladiator |
 | | | 1022501 | Star Spangled Style |
 | | | 1022502 | Captain Klyntar |
+| | | 1022503 | Golden Age |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023300 | Bounty Hunter | 
@@ -86,6 +90,7 @@
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | 1028100 | Mechanical Phantom |
 | | | 1028101 | Golden Ultron |
+| | | 1028300 | Wasteland Robot |
 | | | 1028500 | X-Tron |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
@@ -100,16 +105,18 @@
 | | | 1030500 | Mister Knight |
 | | | 1030501 | Phoenix Knight |
 | | | 1030800 | Fist Of Vengeance |
+| | | 1030801 | Moon Knight Mech |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
 | | | 1031302 | Nolaehaneun Manyeo |
 | | | 1031303 | Cool Summer |
 | | | 1031304 | Plasma Pulse |
+| | | 1031305 | Abyssal Glow |
 | | | 1031306 | Radiant Radiance |
 | | | 1031307 | Prismatic Pulse |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
-| | | 1032300 | Nut Rocker
+| | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032302 | Sunshine Squirrel |
 | | | 1032500 | Urban Hunter |
@@ -147,6 +154,7 @@
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
 | | | 1037300 | Binary Sword |
+| | | 1037302 | The Trial of Magneto |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
@@ -177,6 +185,7 @@
 | | | 1041301 | Polarity Knight |
 | | | 1041302 | Winter's Wrath |
 | | | 1041500 | Revolution | 
+| | | 1041501 | Winter's Veil |
 | | | 1041800 | Thunderbolts* |
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
@@ -187,8 +196,10 @@
 | | | 1043300 | Lion's Mane |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
+| | | 1043502 | Starlit Outlaw |
 | | | 1043800 | Guardians of the Galaxy Vol. 3 |
 | 1044 | Blade | 1044100 | Daybreak |
+| | | 1044101 | WILL OF GALACTA |
 | | | 1044102 | Emerald Blade |
 | | | 1044300 | Polarity Edge |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
@@ -256,6 +267,9 @@
 | | | 1054101 | Emerald Flames |
 | | | 1054300 | Chaos Phoenix |
 | 1055 | Daredevil | | |
+| 1056 | Angela | 1056100 | Cerulean Lightbringer |
+| | | 1056101 | Siriana's Silver |
+| | | 1056500 | Skuld 2099 |
 | 1057 | Professor X | | |
 | 1058 | Jia Jing | | | 
 | 1059 | Paste Pot Pete | | |
