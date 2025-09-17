@@ -273,7 +273,8 @@
 | | | 1056500 | Skuld 2099 |
 | 1057 | Professor X | | |
 | 1058 | Jia Jing | | | 
-| 1059 | Paste Pot Pete | | |
+| 1059 | Elsa Bloodstone |
+| 1059 | Paste Pot Pete (Old) | | |
 | 1060 | Colossus | | | 
 | 1061 | Locus | | | 
 | 1062 | Beast | | | 
@@ -293,7 +294,6 @@
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
-| ???? | Angela | | | 
 | ???? | Captain Marvel | | | 
 | ???? | Cyclops | | | 
 | ???? | Deadpool | | | 
