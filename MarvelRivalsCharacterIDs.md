@@ -10,6 +10,9 @@
 | | | 1014300 | Dangan Ronin |
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
+| | | 1014502 | AQUA ARSENAL |
+| | | 1014504 | Emerald Executioner |
+| | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
 | | | 1015500 | Mohawk Rock | 
@@ -28,7 +31,9 @@
 | | | 1017101 | Blood Blaze |
 | | | 1017500 | Negative Zone Gladiator |
 | | | 1017501 | Future Foundation |
+| | | 1017502 | SUNNY SIZZLER |
 | | | 1017503 | Future Foundation (Alt.) |
+| | | 1017504 | Indigo Inferno |
 | | | 1017800 | The Fantastic Four: First Steps |
 | 1018 | Doctor Strange | 1018100 | Master of Black Magic |
 | | | 1018101 | Astral Wanderer |
@@ -41,6 +46,9 @@
 | | | 1020101 | WILL OF GALACTA |
 | | | 1020300 | Galactic Wings |
 | | | 1020301 | Jade Maiden |
+| | | 1020302 | OCEANIC HARMONY |
+| | | 1020303 | Blue Breeze |
+| | | 1020304 | Citrus Sunrise |
 | | | 1020500 | Flora Maiden |
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
@@ -240,13 +248,18 @@
 | | | 1050300 | The Life Fantastic |
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
+| | | 1050502 | AZURE SHADE |
 | | | 1050503 | Future Foundation (Alt.) |
 | | | 1050504 | Midnight Majesty |
 | | | 1050505 | Dune Daisy |
+| | | 1050506 | Lush Luminance |
+| | | 1050507 | Tangerine Tint |
 | | | 1050800 | The Fantastic Four: First Steps |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited |
+| | | 1051300 | ROCKY TIDE |
 | | | 1051301 | Sunshine Thing |
+| | | 1051302 | Verdant Vanguard |
 | | | 1051500 | Trench Coat |
 | | | 1051501 | Future Foundation |
 | | | 1051502 | Symbiote-Thing |
