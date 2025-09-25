@@ -66,6 +66,7 @@
 | | | 1022503 | Golden Age |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
+| | | 1023101 | Will of Galacta |
 | | | 1023300 | Bounty Hunter | 
 | | | 1023301 | Wild Winter |
 | | | 1023302 | Sunshine Raccoon |
@@ -78,6 +79,7 @@
 | | | 1024301 | Empress of the Cosmos | 
 | | | 1024302 | Yami no Karasu |
 | | | 1024303 | Queen in Black |
+| | | 1024304 | The Grim Lady |
 | | | 1024500 | Goddess of Death |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
