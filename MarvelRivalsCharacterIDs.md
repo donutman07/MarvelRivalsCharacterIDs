@@ -3,6 +3,7 @@
 |  ID  | NAME | SKIN IDs | SKIN NAMES
 | :--: | :--: | :--: | :--: |
 | 1011 | Hulk | 1011100 | Mighty G-Bomb |
+| | | 1011300 | Maestro |
 | | | 1011500 | Punk Rage
 | | | 1011501 | Green Scar |
 | | | 1011502 | Joe Fixit |
@@ -15,6 +16,7 @@
 | | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
+| | | 1015300 | Judicator Xiezhi |
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
 | | | 1015502 | GODDESS OF THUNDER |
@@ -153,6 +155,7 @@
 | | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
+| | | 1036102 | Black & Gold |
 | | | 1036300 | Spider-Oni
 | | | 1036500 | 2099: SPIDER-PUNK |
 | | | 1036501 | Bag-Man Beyond |
@@ -233,6 +236,7 @@
 | | | 1047501 | Devouring Duo |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
+| | | 1048301 | Fleeting Butterfly |
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
 | | | 1048502 | Breezy Butterfly |
@@ -276,13 +280,16 @@
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
+| | | 1053300 | Hellfire Protocol |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
 | | | 1054101 | Emerald Flames |
 | | | 1054300 | Chaos Phoenix |
 | | | 1054500 | Dark Phoenix | 
-| 1055 | Daredevil | | |
+| 1055 | Daredevil | 1055100 | Fearless Origin |
+| | | 1055101 | Shenloong's Creed |
+| | | 1055500 | Devil 2099 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
 | | | 1056500 | Skuld 2099 |
