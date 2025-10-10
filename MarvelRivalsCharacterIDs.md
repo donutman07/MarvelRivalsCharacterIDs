@@ -92,6 +92,7 @@
 | | | 1026101 | Golden Panther
 | | | 1026300 | Galactic Claw |
 | | | 1026301 | Thrice-Cursed King |
+| | | 1026302 | Phoenix Panther |
 | | | 1026500 | Bast's Chosen |
 | | | 1026501 | Damisa-Sarki |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
@@ -111,6 +112,7 @@
 | | | 1029302 | Rosy Resilience |
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
+| | | 1029502 | Phoenix Demon |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
@@ -237,6 +239,8 @@
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
+| | | 1048305 | ORANGE EDGE |
+| | | 1048306 | BLUE BOLT |
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
 | | | 1048502 | Breezy Butterfly |
@@ -289,6 +293,7 @@
 | | | 1054500 | Dark Phoenix | 
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
+| | | 1055102 | Aurora Twilight |
 | | | 1055500 | Devil 2099 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
