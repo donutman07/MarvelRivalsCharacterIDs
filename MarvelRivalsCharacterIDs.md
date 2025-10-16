@@ -16,7 +16,7 @@
 | | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
-| | | 1015300 | Judicator Xiezhi |
+| | | 1015300 | QUEEN OF ORPHANS (Judicator Xiezhi) |
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
 | | | 1015502 | GODDESS OF THUNDER |
@@ -24,7 +24,7 @@
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016300 | Shin Sagi-Shi |
 | | | 1016301 | Robe of Relaxation |
-| | | 1016302 | Immortal Firebird |
+| | | 1016302 | CRANE DECEIVER (Immortal Firebird) |
 | | | 1016303 | Tidal Trickery |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
@@ -133,6 +133,7 @@
 | | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032302 | Sunshine Squirrel |
+| | | 1032303 | TURBO TAILWIND |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -183,6 +184,7 @@
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
+| | | 1039301 | LIGHTNING FAST |
 | | | 1039302 | Azure Skies |
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
