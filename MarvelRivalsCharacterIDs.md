@@ -22,6 +22,7 @@
 | | | 1015502 | GODDESS OF THUNDER |
 | | | 1015503 | Symbiote Storm |
 | 1016 | Loki | 1016100 | Frost Giant |
+| | | 1016101 | IGNITE Loki (2025) |
 | | | 1016300 | Shin Sagi-Shi |
 | | | 1016301 | Robe of Relaxation |
 | | | 1016302 | CRANE DECEIVER (Immortal Firebird) |
@@ -208,6 +209,8 @@
 | | | 1042101 | Blue Tarantula | 
 | | | 1042300 | Yatsukahagi |
 | | | 1042301 | Wasteland Mech |
+| | | 1042302 | FLORAL FRIGHTS |
+| | | 1042304 | SKELETON
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043300 | Lion's Mane |
@@ -219,8 +222,10 @@
 | | | 1044101 | WILL OF GALACTA |
 | | | 1044102 | Emerald Blade |
 | | | 1044300 | Polarity Edge |
+| | | 1044800 | BLADE KNIGHT |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045101 | Will of Galacta |
+| | | 1045300 | PHANTOM TIDE |
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045501 | Retro X-Uniform |
 | | | 1045502 | Phoenix King |
@@ -234,6 +239,7 @@
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047301 | Sunshine Land Shark |
+| | | 1047302 | JEFF O'LANTERN
 | | | 1047303 | Verdant Vortex |
 | | | 1047304 | Blue Barrage |
 | | | 1047500 | Incognito Dolphin |
@@ -320,6 +326,16 @@
 | 4017 | Galacta | | |
 | 4018 | Galacta Bot (Large) | | |
 | 4019 | Ultron Bot | | |
+| 4020 | Zombie Asian Female | | |
+| 4021 | Zombie Asian Male | | |
+| 4022 | Zombie Military | | |
+| 4023 | Zombie Military + Bat | | |
+| 4024 | The Queen of the Dead | | |
+| 4025 | Zombie Namor | | | 
+| 4026 | Zombie Scorched | | |
+| 4027 | Zombie S1 US Soldier | | |
+| 4028 | Zombie Hippy | | | 
+| 4029 | No Data | | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
