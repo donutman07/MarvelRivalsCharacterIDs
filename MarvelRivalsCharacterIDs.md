@@ -196,6 +196,7 @@
 | | | 1039503 | Majestic Raiment |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
+| | | 1040101 | WILL OF GALACTA |
 | | | 1040300 | The Life Fantastic |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
