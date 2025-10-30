@@ -217,6 +217,7 @@
 | | | 1042304 | SKELETON
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
+| | | 1043101 | IGNITE STAR-LORD (2025) |
 | | | 1043300 | Lion's Mane |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
