@@ -148,6 +148,7 @@
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
+| | | 1034503 | Big Shot
 | | | 1034800 | Avengers: Endgame |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
@@ -166,6 +167,7 @@
 | | | 1036502 | Black Suit |
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036504 | Future Foundation |
+| | | 1036505 | Man-Spider
 | | | 1036506 | Future Foundation (Alt.) |
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
@@ -183,6 +185,7 @@
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
+| | | 1038800 | The Queen Of The Dead |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
