@@ -262,6 +262,7 @@
 | | | 1048505 | Moonlit Mirage |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
+| | | 1049301 | DOG BROTHER X |
 | | | 1049500 | Patch |
 | | | 1049501 | Weapon X |
 | | | 1049502 | Weapon PhoeniX |
