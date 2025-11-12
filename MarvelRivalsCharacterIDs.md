@@ -84,6 +84,7 @@
 | | | 1024303 | Queen in Black |
 | | | 1024304 | The Grim Lady |
 | | | 1024500 | Goddess of Death |
+| | | 1024800 | MERCIFUL QUEEN |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
 | | | 1025301 | Twilight Duo |
@@ -106,6 +107,7 @@
 | | | 1028101 | Golden Ultron |
 | | | 1028300 | Wasteland Robot |
 | | | 1028500 | X-Tron |
+| | | 1028800 | INFINITY ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
 | | | 1029300 | Punkchild |
@@ -142,6 +144,7 @@
 | | | 1033500 | Red Runway Veil |
 | | | 1033501 | Mrs. Barnes |
 | | | 1033502 | Phoenix Widow |
+| | | 1033503 | MIDNIGHT SUSPENSE
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
@@ -167,12 +170,14 @@
 | | | 1036502 | Black Suit |
 | | | 1036503 | Marvel's Spider-Man 2 | 
 | | | 1036504 | Future Foundation |
-| | | 1036505 | Man-Spider
+| | | 1036505 | Man-Spider |
 | | | 1036506 | Future Foundation (Alt.) |
+| | | 1036508 | IRON SPIDER |
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
 | | | 1037300 | Binary Sword |
+| | | 1037301 | TEMPORAL TYRANT |
 | | | 1037302 | The Trial of Magneto |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
@@ -184,8 +189,9 @@
 | | | 1038303 | Neon Nimbus |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
+| | | 1039502 | WITCH OF THE EVIL EYE |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
-| | | 1038800 | The Queen Of The Dead |
+| | | 1038801 | The Queen Of The Dead |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
@@ -231,15 +237,17 @@
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045101 | Will of Galacta |
 | | | 1045300 | PHANTOM TIDE |
+| | | 1045301 | MONSTRO KING |
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045501 | Retro X-Uniform |
 | | | 1045502 | Phoenix King |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
-| | | 1046102 | King in White
+| | | 1046102 | King in White |
 | | | 1046300 | Immortal Avatar |
 | | | 1046301 | Blood Soul | 
+| | | 1046500 | MAGUS |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
@@ -303,6 +311,7 @@
 | | | 1053501 | Phoenix Diamond |
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
 | | | 1054101 | Emerald Flames |
+| | | 1054102 | WILL OF GALACTA |
 | | | 1054300 | Chaos Phoenix |
 | | | 1054500 | Dark Phoenix | 
 | 1055 | Daredevil | 1055100 | Fearless Origin |
@@ -312,8 +321,12 @@
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
 | | | 1056500 | Skuld 2099 |
+| | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
 | 1057 | Professor X | | |
-| 1058 | Jia Jing | | | 
+| 1058 | Gambit | CRIMSON HEART |
+| | | 1058101 | SACRIFICIAL PAWN |
+| | | 1058300 | THIEVES GUILDMASTER |
+| 1058 | Jia Jing (Old) | | | 
 | 1059 | Elsa Bloodstone |
 | 1059 | Paste Pot Pete (Old) | | |
 | 1060 | Colossus | | | 
@@ -322,7 +335,7 @@
 | 1063 | Nightcrawler | | |
 | 1064 | Julibee | | |
 | 1065 | Rogue | | |
-| 1066 | Gambit | | |
+| 1066 | Gambit (Old) | | |
 | 1067 | Armor | | | 
 | 1068 | Hive | | |
 | 1069 | White Fox | | |
