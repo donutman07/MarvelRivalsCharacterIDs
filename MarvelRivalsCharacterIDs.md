@@ -290,6 +290,7 @@
 | | | 1050800 | The Fantastic Four: First Steps |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited |
+| | | 1051102 | BLUE THING |
 | | | 1051300 | ROCKY TIDE |
 | | | 1051301 | Sunshine Thing |
 | | | 1051302 | Verdant Vanguard |
