@@ -103,6 +103,7 @@
 | | | 1027302 | Holiday Happiness | 
 | | | 1027500 | Carved Traveler |
 | | | 1027501 | Symbiote Flora |
+| | | 1027502 | BIG BUDDY |
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | 1028100 | Mechanical Phantom |
 | | | 1028101 | Golden Ultron |
