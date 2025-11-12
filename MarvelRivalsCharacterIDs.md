@@ -12,6 +12,7 @@
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
 | | | 1014502 | AQUA ARSENAL |
+| | | 1014503 | FRANKEN-CASTLE |
 | | | 1014504 | Emerald Executioner |
 | | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
