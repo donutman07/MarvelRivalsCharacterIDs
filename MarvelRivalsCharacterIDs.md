@@ -326,7 +326,7 @@
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
 | 1057 | Professor X | | |
-| 1058 | Gambit | CRIMSON HEART |
+| 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058300 | THIEVES GUILDMASTER |
 | 1058 | Jia Jing (Old) | | | 
