@@ -43,6 +43,7 @@
 | | | 1018101 | Astral Wanderer |
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018301 | Old Man Strange |
+| | | 1018302 | BLEEKER STREET STRUT |
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
@@ -115,6 +116,7 @@
 | | | 1029300 | Punkchild |
 | | | 1029301 | Frozen Demon |
 | | | 1029302 | Rosy Resilience |
+| | | 1029303 | NEW MILENNIA MIGHT |
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
