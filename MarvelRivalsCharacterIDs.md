@@ -163,6 +163,9 @@
 | | | 1035103 | Pink Bubble |
 | | | 1035300 | Snow Symbiote |
 | | | 1035301 | REBORN KING IN BLACK |
+| | | 1035302 | Gummy Surprise |
+| | | 1035304 | Phage Palette |
+| | | 1035305 | Frosted Agony |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
@@ -208,6 +211,7 @@
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040101 | WILL OF GALACTA |
 | | | 1040300 | The Life Fantastic |
+| | | 1040301 | Dad-tastic Reed |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
 | | | 1040502 | Future Foundation (Alt.) |
@@ -237,6 +241,7 @@
 | | | 1044101 | WILL OF GALACTA |
 | | | 1044102 | Emerald Blade |
 | | | 1044300 | Polarity Edge |
+| | | 1044500 | Restful Recovery |
 | | | 1044800 | BLADE KNIGHT |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
 | | | 1045101 | Will of Galacta |
@@ -261,6 +266,7 @@
 | | | 1047304 | Blue Barrage |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
+| | | 1047502 | Business Shark
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
@@ -282,6 +288,9 @@
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
 | | | 1050300 | The Life Fantastic |
+| | | 1050301 | Disappearing Dessert | 
+| | | 1050303 | MANGO MAGIC |
+| | | 1050304 | ALLURING APPLE
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
 | | | 1050502 | AZURE SHADE |
@@ -347,7 +356,7 @@
 | 1070 | Forge | | | 
 | 1071 | Amaranth | | |
 | 4016 | Galacta Bot | | |
-| 4017 | Galacta | | |
+| 4017 | Galacta | 4017500 | Casual |
 | 4018 | Galacta Bot (Large) | | |
 | 4019 | Ultron Bot | | |
 | 4020 | Zombie Asian Female | | |
