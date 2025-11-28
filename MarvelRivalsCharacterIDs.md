@@ -356,7 +356,7 @@
 | 1070 | Forge | | | 
 | 1071 | Amaranth | | |
 | 4016 | Galacta Bot | | |
-| 4017 | Galacta | 4017500 | Casual |
+| 4017 | Galacta | 4017500 | Rivals' Day 2025 |
 | 4018 | Galacta Bot (Large) | | |
 | 4019 | Ultron Bot | | |
 | 4020 | Zombie Asian Female | | |
