@@ -136,6 +136,9 @@
 | | | 1031305 | Abyssal Glow |
 | | | 1031306 | Radiant Radiance |
 | | | 1031307 | Prismatic Pulse |
+| | | 1031308 | Cherry Delight |
+| | | 1031310 | BLUEBERRY ICE |
+| | | 1031311 | FRUIT CAKE FLURRY |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
@@ -270,8 +273,11 @@
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
+| | | 1048302 | DARING DAIFUKU |
 | | | 1048305 | ORANGE EDGE |
 | | | 1048306 | BLUE BOLT |
+| | | 1048307 | MATCHA MIRAGE |
+| | | 1048308 | GRAPE WAGASHI
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
 | | | 1048502 | Breezy Butterfly |
