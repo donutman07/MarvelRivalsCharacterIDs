@@ -69,6 +69,7 @@
 | | | 1022501 | Star Spangled Style |
 | | | 1022502 | Captain Klyntar |
 | | | 1022503 | Golden Age |
+| | | 1022504 | Capwolf |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023101 | Will of Galacta |
@@ -77,6 +78,7 @@
 | | | 1023302 | Sunshine Raccoon |
 | | | 1023303 | Radiant Reef |
 | | | 1023304 | Bluebell Breeze |
+| | | 1023305 | ROCKET OF THE RAFTERS |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
@@ -158,7 +160,8 @@
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
-| | | 1034503 | Big Shot
+| | | 1034503 | Big Shot |
+| | | 1034504 | Mark I |
 | | | 1034800 | Avengers: Endgame |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
@@ -318,8 +321,10 @@
 | | | 1051503 | Future Foundation (Alt.) |
 | | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
+| | | 1052101 | WILL OF GALACTA |
 | | | 1052300 | Lion's Gaze |
 | | | 1052301 | Binary Fist |
+| | | 1052302 | Shenloong Champion |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | | | 1052502 | Phoenix Fist |
@@ -354,7 +359,9 @@
 | 1062 | Beast | | | 
 | 1063 | Nightcrawler | | |
 | 1064 | Julibee | | |
-| 1065 | Rogue | | |
+| 1065 | Rogue | 1065100 | Queen's Defense |
+| | | 1065101 | SEARING SPELLSTRIPE |
+| | | 1065300 | ROGUE REDUX |
 | 1066 | Gambit (Old) | | |
 | 1067 | Armor | | | 
 | 1068 | Hive | | |
