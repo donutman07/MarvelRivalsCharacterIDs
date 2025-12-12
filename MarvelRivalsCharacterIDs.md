@@ -347,7 +347,8 @@
 | | | 1056101 | Siriana's Silver |
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
-| 1057 | Professor X | | |
+| 1057 | Deadpool | | |
+| 1057 | Professor X (Old) | | |
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058300 | THIEVES GUILDMASTER |
@@ -381,6 +382,7 @@
 | 4026 | Zombie Scorched | | |
 | 4027 | Zombie S1 US Soldier | | |
 | 4028 | Zombie Hippy | | | 
+| 4057 | Deadpool | | | 
 | 4029 | No Data | | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
