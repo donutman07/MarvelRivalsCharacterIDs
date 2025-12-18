@@ -146,6 +146,7 @@
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032302 | Sunshine Squirrel |
 | | | 1032303 | TURBO TAILWIND |
+| | | 1032304 | TINSEL TAIL |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -189,6 +190,7 @@
 | | | 1036800 | Spider-Man: No Way Home |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
+| | | 1037102 | BLACK & GOLD |
 | | | 1037300 | Binary Sword |
 | | | 1037301 | TEMPORAL TYRANT |
 | | | 1037302 | The Trial of Magneto |
@@ -228,17 +230,20 @@
 | | | 1041302 | Winter's Wrath |
 | | | 1041500 | Revolution | 
 | | | 1041501 | Winter's Veil |
+| | | 1041502 | WINTER BUCKAROO |
 | | | 1041800 | Thunderbolts* |
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
 | | | 1042300 | Yatsukahagi |
 | | | 1042301 | Wasteland Mech |
 | | | 1042302 | FLORAL FRIGHTS |
-| | | 1042304 | SKELETON
+| | | 1042303 | SNOW SP//DR |
+| | | 1042304 | SKELETON |
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043101 | IGNITE STAR-LORD (2025) |
 | | | 1043300 | Lion's Mane |
+| | | 1043301 | STARCRACKER |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
 | | | 1043502 | Starlit Outlaw |
@@ -270,6 +275,8 @@
 | | | 1047302 | JEFF O'LANTERN
 | | | 1047303 | Verdant Vortex |
 | | | 1047304 | Blue Barrage |
+| | | 1047305 | POWDER PINK |
+| | | 1047306 | BLUE BLIZZARD |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark
@@ -343,6 +350,7 @@
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
 | | | 1055500 | Devil 2099 |
+| | | 1055501 | NOT DAREDEVIL |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
 | | | 1056500 | Skuld 2099 |
