@@ -93,6 +93,7 @@
 | | | 1025300 | Dance Partner |
 | | | 1025301 | Twilight Duo |
 | | | 1025302 | Polarity Bond |
+| | | 1025303 | ICE PAS DE DEUX |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther
@@ -211,6 +212,7 @@
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
 | | | 1039302 | Azure Skies |
+| | | 1039303 | GOD OF WINTER |
 | | | 1039500 | HERALD OF THUNDER | 
 | | | 1039501 | Reborn from Ragnarok | 
 | | | 1039502 | Lord of Asgard |
