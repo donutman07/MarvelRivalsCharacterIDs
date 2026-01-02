@@ -30,9 +30,11 @@
 | | | 1016303 | Tidal Trickery |
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
+| | | 1016502 | LADY LOKI |
 | | | 1016800 | Loki Season 2 |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
+| | | 1017300 | JACK OF HEARTS |
 | | | 1017500 | Negative Zone Gladiator |
 | | | 1017501 | Future Foundation |
 | | | 1017502 | SUNNY SIZZLER |
