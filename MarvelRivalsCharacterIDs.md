@@ -271,6 +271,7 @@
 | | | 1046102 | King in White |
 | | | 1046300 | Immortal Avatar |
 | | | 1046301 | Blood Soul | 
+| | | 1046302 | COSMIC WARLOCK |
 | | | 1046500 | MAGUS |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
@@ -349,6 +350,7 @@
 | | | 1054101 | Emerald Flames |
 | | | 1054102 | WILL OF GALACTA |
 | | | 1054300 | Chaos Phoenix |
+| | | 1054301 | ICE PHOENIX |
 | | | 1054500 | Dark Phoenix | 
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
