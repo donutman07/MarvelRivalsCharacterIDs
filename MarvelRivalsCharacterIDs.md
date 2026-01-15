@@ -22,6 +22,7 @@
 | | | 1015501 | Ultimate Wind-Rider |
 | | | 1015502 | GODDESS OF THUNDER |
 | | | 1015503 | Symbiote Storm |
+| | | 1015504 | Queen of Wakanda |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016101 | IGNITE Loki (2025) |
 | | | 1016300 | Shin Sagi-Shi |
@@ -56,6 +57,7 @@
 | | | 1020302 | OCEANIC HARMONY |
 | | | 1020303 | Blue Breeze |
 | | | 1020304 | Citrus Sunrise |
+| | | 1020305 | Galactic Gladiator |
 | | | 1020500 | Flora Maiden |
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
@@ -98,12 +100,13 @@
 | | | 1025303 | ICE PAS DE DEUX |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
-| | | 1026101 | Golden Panther
+| | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
 | | | 1026301 | Thrice-Cursed King |
 | | | 1026302 | Phoenix Panther |
 | | | 1026500 | Bast's Chosen |
 | | | 1026501 | Damisa-Sarki |
+| | | 1026502 | King of Wakanda |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
 | | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
@@ -128,6 +131,7 @@
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
+| | | 1030301 | King of Clubs |
 | | | 1030500 | Mister Knight |
 | | | 1030501 | Phoenix Knight |
 | | | 1030800 | Fist Of Vengeance |
@@ -174,10 +178,12 @@
 | | | 1035300 | Snow Symbiote |
 | | | 1035301 | REBORN KING IN BLACK |
 | | | 1035302 | Gummy Surprise |
+| | | 1035303 | Space Corsair |
 | | | 1035304 | Phage Palette |
 | | | 1035305 | Frosted Agony |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
+| | | 1035800 | MARVEL COSMIC INVASION
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
 | | | 1036102 | Black & Gold |
@@ -191,6 +197,7 @@
 | | | 1036506 | Future Foundation (Alt.) |
 | | | 1036508 | IRON SPIDER |
 | | | 1036800 | Spider-Man: No Way Home |
+| | | 1036801 | MARVEL COSMIC INVASION |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
 | | | 1037102 | BLACK & GOLD |
@@ -235,6 +242,7 @@
 | | | 1041500 | Revolution | 
 | | | 1041501 | Winter's Veil |
 | | | 1041502 | WINTER BUCKAROO |
+| | | 1041503 | Bucky |
 | | | 1041800 | Thunderbolts* |
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
@@ -245,7 +253,8 @@
 | | | 1042304 | SKELETON |
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
-| | | 1043101 | IGNITE STAR-LORD (2025) |
+| | | 1043102 | IGNITE STAR-LORD (2025) |
+| | | 1043103 | Luminous Legend |
 | | | 1043300 | Lion's Mane |
 | | | 1043301 | STARCRACKER |
 | | | 1043500 | MASTER OF THE SUN |
@@ -256,6 +265,7 @@
 | | | 1044101 | WILL OF GALACTA |
 | | | 1044102 | Emerald Blade |
 | | | 1044300 | Polarity Edge |
+| | | 1044301 | Vampire Slayer |
 | | | 1044500 | Restful Recovery |
 | | | 1044800 | BLADE KNIGHT |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
@@ -284,7 +294,8 @@
 | | | 1047306 | BLUE BLIZZARD |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
-| | | 1047502 | Business Shark
+| | | 1047502 | Business Shark |
+| | | 1047800 | 8-BIT BASH |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
@@ -305,13 +316,18 @@
 | | | 1049500 | Patch |
 | | | 1049501 | Weapon X |
 | | | 1049502 | Weapon PhoeniX |
+| | | 1049503 | Winter Soldier |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
+| | | 1050103 | Will of Galacta |
 | | | 1050300 | The Life Fantastic |
 | | | 1050301 | Disappearing Dessert | 
+| | | 1050302 | Prism Parade |
 | | | 1050303 | MANGO MAGIC |
-| | | 1050304 | ALLURING APPLE
+| | | 1050304 | ALLURING APPLE |
+| | | 1050308 | Radiant Ray |
+| | | 1050309 | Vivid Vibe |
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
 | | | 1050502 | AZURE SHADE |
@@ -361,7 +377,9 @@
 | | | 1056101 | Siriana's Silver |
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
-| 1057 | Deadpool | | |
+| 1057 | Deadpool | 1057100 | X-Force? |
+| | | 1057101 | Workwear Woes |
+| | | 1057300 | CAPTAIN POOL |
 | 1057 | Professor X (Old) | | |
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
