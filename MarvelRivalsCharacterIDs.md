@@ -146,8 +146,11 @@
 | | | 1031306 | Radiant Radiance |
 | | | 1031307 | Prismatic Pulse |
 | | | 1031308 | Cherry Delight |
+| | | 1031309 | DISCO POP |
 | | | 1031310 | BLUEBERRY ICE |
 | | | 1031311 | FRUIT CAKE FLURRY |
+| | | 1031314 | JADE JEWEL |
+| | | 1031315 | NIGHT NEBULA | 
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
@@ -214,7 +217,7 @@
 | | | 1038303 | Neon Nimbus |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
-| | | 1039502 | WITCH OF THE EVIL EYE |
+| | | 1038502 | WITCH OF THE EVIL EYE |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | | | 1038801 | The Queen Of The Dead |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
@@ -226,6 +229,9 @@
 | | | 1039501 | Reborn from Ragnarok | 
 | | | 1039502 | Lord of Asgard |
 | | | 1039503 | Majestic Raiment |
+| | | 1039504 | BOOGIE BOLT |
+| | | 1039507 | SHADOW SHOCK |
+| | | 1039508 | PURPLE PULSE |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040101 | WILL OF GALACTA |
