@@ -91,6 +91,7 @@
 | | | 1024302 | Yami no Karasu |
 | | | 1024303 | Queen in Black |
 | | | 1024304 | The Grim Lady |
+| | | 1024305 | DISCO OF THE DEAD |
 | | | 1024500 | Goddess of Death |
 | | | 1024800 | MERCIFUL QUEEN |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
@@ -199,6 +200,7 @@
 | | | 1036505 | Man-Spider |
 | | | 1036506 | Future Foundation (Alt.) |
 | | | 1036508 | IRON SPIDER |
+| | | 1036509 | GROOVY SWING |
 | | | 1036800 | Spider-Man: No Way Home |
 | | | 1036801 | MARVEL COSMIC INVASION |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
@@ -306,10 +308,13 @@
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
 | | | 1048302 | DARING DAIFUKU |
+| | | 1048304 | PSYCHEDELIC PULSE |
 | | | 1048305 | ORANGE EDGE |
 | | | 1048306 | BLUE BOLT |
 | | | 1048307 | MATCHA MIRAGE |
-| | | 1048308 | GRAPE WAGASHI
+| | | 1048308 | GRAPE WAGASHI |
+| | | 1048311 | TWILIGHT TONES |
+| | | 1048312 | AMETHYST AURA |
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
 | | | 1048502 | Breezy Butterfly |
@@ -422,6 +427,7 @@
 | 4028 | Zombie Hippy | | | 
 | 4057 | Deadpool | | | 
 | 4029 | No Data | | |
+| 4061 | The Thing | | | 
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
