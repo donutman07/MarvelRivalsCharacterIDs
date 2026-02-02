@@ -371,6 +371,7 @@
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
 | | | 1053300 | Hellfire Protocol |
+| | | 1053301 | QUEEN OF DIAMONDS |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
@@ -386,6 +387,7 @@
 | | | 1055501 | NOT DAREDEVIL |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
+| | | 1056300 | ACE OF SPADES |
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
 | 1057 | Deadpool | 1057100 | X-Force? |
