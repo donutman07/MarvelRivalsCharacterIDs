@@ -111,6 +111,7 @@
 | 1027 | Groot | 1027100 | ABIES ALGAE |
 | | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
+| | | 1027303 | MECHA-FLORA |
 | | | 1027500 | Carved Traveler |
 | | | 1027501 | Symbiote Flora |
 | | | 1027502 | BIG BUDDY |
@@ -211,6 +212,7 @@
 | | | 1037302 | The Trial of Magneto |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
+| | | 1037502 | SEAT OF AUTUMN |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
 | | | 1038300 | Immortal Sovereign |
