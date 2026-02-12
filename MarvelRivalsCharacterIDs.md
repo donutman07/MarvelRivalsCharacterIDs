@@ -83,6 +83,7 @@
 | | | 1023303 | Radiant Reef |
 | | | 1023304 | Bluebell Breeze |
 | | | 1023305 | ROCKET OF THE RAFTERS |
+| | | 1023306 | GIANT PANDA |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
@@ -159,6 +160,7 @@
 | | | 1032302 | Sunshine Squirrel |
 | | | 1032303 | TURBO TAILWIND |
 | | | 1032304 | TINSEL TAIL |
+| | | 1032305 | RED PANDA |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -297,11 +299,14 @@
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047301 | Sunshine Land Shark |
-| | | 1047302 | JEFF O'LANTERN
+| | | 1047302 | JEFF O'LANTERN |
 | | | 1047303 | Verdant Vortex |
 | | | 1047304 | Blue Barrage |
 | | | 1047305 | POWDER PINK |
 | | | 1047306 | BLUE BLIZZARD |
+| | | 1047307 | DUCK DEFENDER |
+| | | 1047310 | WHITE WADDLE |
+| | | 1047311 | GREEN BILL |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark |
@@ -369,6 +374,8 @@
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | | | 1052502 | Phoenix Fist |
+| | | 1052504 | SAVAGE SPIRIT | 
+| | | 1052505 | LIVELY LION
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
@@ -395,27 +402,33 @@
 | 1057 | Deadpool | 1057100 | X-Force? |
 | | | 1057101 | Workwear Woes |
 | | | 1057300 | CAPTAIN POOL |
-| 1057 | Professor X (Old) | | |
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058300 | THIEVES GUILDMASTER |
+| | | 1058302 | MR. X |
 | 1058 | Jia Jing (Old) | | | 
-| 1059 | Elsa Bloodstone |
-| 1059 | Paste Pot Pete (Old) | | |
+| 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
+| | | 1059101 | ICY EDGE |
+| | | 1059300 | YOUNG BLOOD |
 | 1060 | Colossus | | | 
 | 1061 | Locus | | | 
 | 1062 | Beast | | | 
 | 1063 | Nightcrawler | | |
-| 1064 | Julibee | | |
+| 1064 | Jubilee | | |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
 | | | 1065300 | ROGUE REDUX |
-| 1066 | Gambit (Old) | | |
+| | | 1065301 | MRS. X |
+| 1066 | | | |
 | 1067 | Armor | | | 
 | 1068 | Hive | | |
 | 1069 | White Fox | | |
 | 1070 | Forge | | | 
 | 1071 | Amaranth | | |
+| 1057 | Professor X (Old) | | |
+| 1058 | Jia Jing (Old) | | | 
+| 1059 | Paste Pot Pete (Old) | | |
+| 1066 | Gambit (Old) | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | 4017500 | Rivals' Day 2025 |
 | 4018 | Galacta Bot (Large) | | |
