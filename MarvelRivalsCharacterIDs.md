@@ -119,6 +119,7 @@
 | | | 1027800 | Guardians of the Galaxy Vol. 3 |
 | 1028 | Ultron | 1028100 | Mechanical Phantom |
 | | | 1028101 | Golden Ultron |
+| | | 1028102 | WILL OF GALACTA |
 | | | 1028300 | Wasteland Robot |
 | | | 1028500 | X-Tron |
 | | | 1028800 | INFINITY ULTRON |
