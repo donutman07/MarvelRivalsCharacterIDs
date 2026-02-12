@@ -371,11 +371,11 @@
 | | | 1052300 | Lion's Gaze |
 | | | 1052301 | Binary Fist |
 | | | 1052302 | Shenloong Champion |
+| | | 1052304 | SAVAGE SPIRIT | 
+| | | 1052305 | LIVELY LION |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | | | 1052502 | Phoenix Fist |
-| | | 1052504 | SAVAGE SPIRIT | 
-| | | 1052505 | LIVELY LION
 | 1053 | Emma Frost | 1053100 | Blue Sapphire |
 | | | 1053101 | Will of Galacta |
 | | | 1053102 | Golden Diamond |
