@@ -47,6 +47,7 @@
 | | | 1018300 | Sorcerer Immortal | 
 | | | 1018301 | Old Man Strange |
 | | | 1018302 | BLEEKER STREET STRUT |
+| | | 1018303 | PHANTOM SORCERER |
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
@@ -173,6 +174,7 @@
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
+| | | 1034301 | IRON MARINER
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
@@ -222,6 +224,9 @@
 | | | 1038301 | Phoenix Chaos | 
 | | | 1038302 | Majestic Mauve |
 | | | 1038303 | Neon Nimbus |
+| | | 1038304 | TWISTED CONJURER |
+| | | 1038305 | FROSTBITTEN WITCH |
+| | | 1038306 | DEEP GREEN MAGIC |
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038502 | WITCH OF THE EVIL EYE |
@@ -382,6 +387,7 @@
 | | | 1053102 | Golden Diamond |
 | | | 1053300 | Hellfire Protocol |
 | | | 1053301 | QUEEN OF DIAMONDS |
+| | | 1053302 | BLACK QUEEN OF THE MARAUDERS |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
