@@ -387,9 +387,9 @@
 | | | 1053102 | Golden Diamond |
 | | | 1053300 | Hellfire Protocol |
 | | | 1053301 | QUEEN OF DIAMONDS |
-| | | 1053302 | BLACK QUEEN OF THE MARAUDERS |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
+| | | 1053502 | BLACK QUEEN OF THE MARAUDERS |
 | 1054 | Phoenix | 1054100 | The Return of Jean Grey |
 | | | 1054101 | Emerald Flames |
 | | | 1054102 | WILL OF GALACTA |
