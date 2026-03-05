@@ -70,6 +70,7 @@
 | | | 1021502 | Binary Arrow |
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
+| | | 1022301 | CURSED CAPTAIN |
 | | | 1022500 | Captain Gladiator |
 | | | 1022501 | Star Spangled Style |
 | | | 1022502 | Captain Klyntar |
@@ -321,6 +322,7 @@
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
 | | | 1048302 | DARING DAIFUKU |
+| | | 1048303 | ONCE-CAPTIVE CORSAIR |
 | | | 1048304 | PSYCHEDELIC PULSE |
 | | | 1048305 | ORANGE EDGE |
 | | | 1048306 | BLUE BOLT |
