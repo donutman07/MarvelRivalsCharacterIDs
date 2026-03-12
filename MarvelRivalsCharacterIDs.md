@@ -400,6 +400,7 @@
 | | | 1054300 | Chaos Phoenix |
 | | | 1054301 | ICE PHOENIX |
 | | | 1054500 | Dark Phoenix | 
+| | | 1054501 | SEAT OF SPRING |
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
