@@ -373,6 +373,7 @@
 | | | 1051501 | Future Foundation |
 | | | 1051502 | Symbiote-Thing |
 | | | 1051503 | Future Foundation (Alt.) |
+| | | 1051504 | FEAR ITSELF |
 | | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052101 | WILL OF GALACTA |
@@ -403,6 +404,7 @@
 | | | 1055102 | Aurora Twilight |
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
+| | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
 | | | 1056300 | ACE OF SPADES |
