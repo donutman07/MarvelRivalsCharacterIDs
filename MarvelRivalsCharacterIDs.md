@@ -138,6 +138,7 @@
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
 | | | 1030301 | King of Clubs |
+| | | 1030302 | ECLIPSE KNIGHT |
 | | | 1030500 | Mister Knight |
 | | | 1030501 | Phoenix Knight |
 | | | 1030800 | Fist Of Vengeance |
