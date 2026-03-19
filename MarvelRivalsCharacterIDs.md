@@ -9,6 +9,7 @@
 | | | 1011502 | Joe Fixit |
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014300 | Dangan Ronin |
+| | | 1014301 | MARAUDER MARKSMAN |
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
 | | | 1014502 | AQUA ARSENAL |
@@ -32,6 +33,7 @@
 | | | 1016500 | PRESIDENTIAL ATTIRE |
 | | | 1016501 | All-Butcher | 
 | | | 1016502 | LADY LOKI |
+| | | 1016503 | LOW-KEY LOKI |
 | | | 1016800 | Loki Season 2 |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
@@ -48,6 +50,7 @@
 | | | 1018301 | Old Man Strange |
 | | | 1018302 | BLEEKER STREET STRUT |
 | | | 1018303 | PHANTOM SORCERER |
+| | | 1018304 | STEPHEN SANDERS: THE DOCTOR |
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
@@ -63,6 +66,7 @@
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021101 | WILL OF GALACTA |
+| | | 1021102 | ARGENT ARCHER |
 | | | 1021300 | Galactic Fangs |
 | | | 1021301 | Old Man Hawkeye |
 | | | 1021500 | Ronin |
@@ -95,6 +99,9 @@
 | | | 1024303 | Queen in Black |
 | | | 1024304 | The Grim Lady |
 | | | 1024305 | DISCO OF THE DEAD |
+| | | 1024306 | HELEN ANGERBODA: THE REBEL
+| | | 1024309 | RUBY REVOLT |
+| | | 1024310 | VIOLET VIOLENCE
 | | | 1024500 | Goddess of Death |
 | | | 1024800 | MERCIFUL QUEEN |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
@@ -124,6 +131,7 @@
 | | | 1028102 | WILL OF GALACTA |
 | | | 1028300 | Wasteland Robot |
 | | | 1028500 | X-Tron |
+| | | 1028502 | ODINFORCE ULTRON |
 | | | 1028800 | INFINITY ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
@@ -156,6 +164,7 @@
 | | | 1031309 | DISCO POP |
 | | | 1031310 | BLUEBERRY ICE |
 | | | 1031311 | FRUIT CAKE FLURRY |
+| | | 1031312 | PARK SUN-YOUNG: THE DANCER |
 | | | 1031314 | JADE JEWEL |
 | | | 1031315 | NIGHT NEBULA | 
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
@@ -222,6 +231,7 @@
 | | | 1037502 | SEAT OF AUTUMN |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
+| | | 1038102 | WILL OF GALACTA |
 | | | 1038300 | Immortal Sovereign |
 | | | 1038301 | Phoenix Chaos | 
 | | | 1038302 | Majestic Mauve |
@@ -244,6 +254,7 @@
 | | | 1039502 | Lord of Asgard |
 | | | 1039503 | Majestic Raiment |
 | | | 1039504 | BOOGIE BOLT |
+| | | 1039505 | LOW-KEY THOR |
 | | | 1039507 | SHADOW SHOCK |
 | | | 1039508 | PURPLE PULSE |
 | | | 1039800 | Thor: Love and Thunder |
@@ -271,6 +282,9 @@
 | | | 1042302 | FLORAL FRIGHTS |
 | | | 1042303 | SNOW SP//DR |
 | | | 1042304 | SKELETON |
+| | | 1042305 | BADLANDS LULLABY |
+| | | 1042308 | TOXIC TINT |
+| | | 1042309 | CERULEAN CORRUPTION |
 | | | 1042500 | VEN#M |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043102 | IGNITE STAR-LORD (2025) |
@@ -303,6 +317,7 @@
 | | | 1046301 | Blood Soul | 
 | | | 1046302 | COSMIC WARLOCK |
 | | | 1046500 | MAGUS |
+| | | 1046501 | LIVING TRIBUNAL |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047300 | Cuddly Fuzzlefin |
@@ -412,9 +427,11 @@
 | | | 1056300 | ACE OF SPADES |
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
-| 1057 | Deadpool | 1057100 | X-Force? |
+| | | 1056502 | DOOM ANGEL |
+| 1057 | Deadpool | 1057100 | X-FORCE? |
 | | | 1057101 | Workwear Woes |
 | | | 1057300 | CAPTAIN POOL |
+| | | 1057800 | WADE WILSON: SPIRIT SQUAD
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058300 | THIEVES GUILDMASTER |
@@ -423,8 +440,10 @@
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
-| 1060 | Colossus | | | 
-| 1061 | Locus | | | 
+| 1060 | White Fox | 1060100 | ROSY RECON | 
+| | | 1060101 | SECRET AGENT |
+| | | 1060500 | YOON JI-WOO: THE LEADER:
+| 1061 | Black Cat | | | 
 | 1062 | Beast | | | 
 | 1063 | Nightcrawler | | |
 | 1064 | Jubilee | | |
@@ -435,13 +454,16 @@
 | 1066 | | | |
 | 1067 | Armor | | | 
 | 1068 | Hive | | |
-| 1069 | White Fox | | |
+| 1069 | | | |
 | 1070 | Forge | | | 
 | 1071 | Amaranth | | |
 | 1057 | Professor X (Old) | | |
 | 1058 | Jia Jing (Old) | | | 
 | 1059 | Paste Pot Pete (Old) | | |
+| 1060 | Colossus (Old) | | |
+| 1061 | Locus (Old) | | | 
 | 1066 | Gambit (Old) | | |
+| 1069 | White Fox (Old) | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | 4017500 | Rivals' Day 2025 |
 | 4018 | Galacta Bot (Large) | | |
