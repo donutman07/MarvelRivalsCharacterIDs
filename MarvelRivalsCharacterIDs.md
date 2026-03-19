@@ -90,6 +90,7 @@
 | | | 1023304 | Bluebell Breeze |
 | | | 1023305 | ROCKET OF THE RAFTERS |
 | | | 1023306 | GIANT PANDA |
+| | | 1023307 | ROCKY: THE TRANSFER |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
