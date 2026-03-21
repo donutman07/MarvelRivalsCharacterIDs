@@ -478,8 +478,18 @@
 | 4026 | Zombie Scorched | | |
 | 4027 | Zombie S1 US Soldier | | |
 | 4028 | Zombie Hippy | | | 
-| 4057 | Deadpool | | | 
 | 4029 | No Data | | |
+| 4030 | No Data | | |
+| 4036 | No Data | | |
+| 4037 | No Data | | |
+| 4038 | No Data | | |
+| 4039 | No Data | | |
+| 4040 | No Data | | |
+| 4043 | No Data | | |
+| 4044 | No Data | | |
+| 4045 | No Data | | |
+| 4046 | No Data | | |
+| 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
