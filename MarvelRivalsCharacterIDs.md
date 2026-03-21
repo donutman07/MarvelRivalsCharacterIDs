@@ -478,7 +478,7 @@
 | 4026 | Zombie Scorched | | |
 | 4027 | Zombie S1 US Soldier | | |
 | 4028 | Zombie Hippy | | | 
-| 4029 | Zombie (for Programming) | | 丧尸代理角色（程序用) |
+| 4029 | Zombie (Programming) | | 丧尸代理角色（程序用) |
 | 4030 | No Data | | |
 | 4032 | Khonshu | | Marvel Zombies Announcer |
 | 4036 | No Data | | |
