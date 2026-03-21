@@ -480,7 +480,7 @@
 | 4028 | Zombie Hippy | | | 
 | 4029 | Zombie (for Programming) | | 丧尸代理角色（程序用) |
 | 4030 | No Data | | |
-| 4032 | Khonshu | Announcer | Marvel Zombies |
+| 4032 | Khonshu | | Marvel Zombies Announcer |
 | 4036 | No Data | | |
 | 4037 | No Data | | |
 | 4038 | No Data | | |
