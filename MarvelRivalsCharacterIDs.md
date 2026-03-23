@@ -437,7 +437,6 @@
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058300 | THIEVES GUILDMASTER |
 | | | 1058302 | MR. X |
-| 1058 | Jia Jing (Old) | | | 
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
@@ -445,7 +444,7 @@
 | | | 1060101 | SECRET AGENT |
 | | | 1060500 | YOON JI-WOO: THE LEADER:
 | 1061 | Black Cat | | | 
-| 1062 | Beast | | | 
+| 1062 | Devil Dinosaur | | | 
 | 1063 | Nightcrawler | | |
 | 1064 | Jubilee | | |
 | 1065 | Rogue | 1065100 | Queen's Defense |
@@ -463,6 +462,7 @@
 | 1059 | Paste Pot Pete (Old) | | |
 | 1060 | Colossus (Old) | | |
 | 1061 | Locus (Old) | | | 
+| 1062 | Beast (Old) | | | 
 | 1066 | Gambit (Old) | | |
 | 1069 | White Fox (Old) | | |
 | 4016 | Galacta Bot | | |
