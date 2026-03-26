@@ -75,6 +75,7 @@
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
 | | | 1022300 | Galactic Talon |
 | | | 1022301 | CURSED CAPTAIN |
+| | | 1022302 | BRETT HENDRICK: THE STAR |
 | | | 1022500 | Captain Gladiator |
 | | | 1022501 | Star Spangled Style |
 | | | 1022502 | Captain Klyntar |
@@ -110,6 +111,9 @@
 | | | 1025301 | Twilight Duo |
 | | | 1025302 | Polarity Bond |
 | | | 1025303 | ICE PAS DE DEUX |
+| | | 1025304 | DARING DUO |
+| | | 1025306 | DARKENED DAY |
+| | | 1025307 | TWISTED THORNS |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
@@ -140,6 +144,9 @@
 | | | 1029301 | Frozen Demon |
 | | | 1029302 | Rosy Resilience |
 | | | 1029303 | NEW MILENNIA MIGHT |
+| | | 1029304 | INFERNAL IDOL |
+| | | 1029305 | LAVENDER LIMBO |
+| | | 1029306 | BLUE BLITZ |
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
@@ -292,6 +299,7 @@
 | | | 1043103 | Luminous Legend |
 | | | 1043300 | Lion's Mane |
 | | | 1043301 | STARCRACKER |
+| | | 1043302 | GROOVY GUARDIAN |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
 | | | 1043502 | Starlit Outlaw |
@@ -307,6 +315,7 @@
 | | | 1045101 | Will of Galacta |
 | | | 1045300 | PHANTOM TIDE |
 | | | 1045301 | MONSTRO KING |
+| | | 1045302 | SEA SAMBA |
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045501 | Retro X-Uniform |
 | | | 1045502 | Phoenix King |
@@ -430,6 +439,18 @@
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
 | | | 1056502 | DOOM ANGEL |
 | 1057 | Deadpool | 1057100 | X-FORCE? |
+| | | 1057102 | VIRTUS.PRO (IGNITE SERIES 2026) |
+| | | 1057103 | NRG SHOCK (IGNITE SERIES 2026) |
+| | | 1057104 | SPACESTATION GAMING (IGNITE SERIES 2026) |
+| | | 1057105 | NAVI (IGNITE SERIES 2026) |
+| | | 1057106 | TSM (IGNITE SERIES 2026) |
+| | | 1057107 | TEAM HERETICS (IGNITE SERIES 2026) |
+| | | 1057108 | REJECT (IGNITE SERIES 2026) |
+| | | 1057109 | SENTINELS (IGNITE SERIES 2026) |
+| | | 1057110 | GEN.G (IGNITE SERIES 2026) |
+| | | 1057111 | LIQUID CITADEL (IGNITE SERIES 2026) |
+| | | 1057112 | FLYQUEST (IGNITE SERIES 2026) |
+| | | 1057113 | 100 THIEVES (IGNITE SERIES 2026) |
 | | | 1057101 | Workwear Woes |
 | | | 1057300 | CAPTAIN POOL |
 | | | 1057800 | WADE WILSON: SPIRIT SQUAD
