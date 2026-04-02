@@ -270,6 +270,7 @@
 | | | 1040101 | WILL OF GALACTA |
 | | | 1040300 | The Life Fantastic |
 | | | 1040301 | Dad-tastic Reed |
+| | | 1040302 | DANUM KET: THE PROFESSOR |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
 | | | 1040502 | Future Foundation (Alt.) |
@@ -378,6 +379,9 @@
 | | | 1050302 | Prism Parade |
 | | | 1050303 | MANGO MAGIC |
 | | | 1050304 | ALLURING APPLE |
+| | | 1050305 | RIANN LANDAU: THE DEBATER |
+| | | 1050306 | PINE OPPOSITION |
+| | | 1050307 | ROYAL BLUE REBUTTAL |
 | | | 1050308 | Radiant Ray |
 | | | 1050309 | Vivid Vibe |
 | | | 1050500 | Malice | 
@@ -493,6 +497,7 @@
 | 4020 | Zombie Asian Female | | |
 | 4021 | Zombie Asian Male | | |
 | 4022 | Zombie Military | | |
+| 4022 | Kingpin | Again |
 | 4023 | Zombie Military + Bat | | |
 | 4024 | The Queen of the Dead | | |
 | 4025 | Zombie Namor | | | 
@@ -513,6 +518,7 @@
 | 4046 | No Data | | |
 | 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
+| 4062 | Kingpin | | | 
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
