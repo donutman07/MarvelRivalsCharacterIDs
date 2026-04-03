@@ -497,7 +497,7 @@
 | 4020 | Zombie Asian Female | | |
 | 4021 | Zombie Asian Male | | |
 | 4022 | Zombie Military | | |
-| 4022 | Kingpin | Mislabeled |
+| 4022 | Kingpin | | Mislabeled |
 | 4023 | Zombie Military + Bat | | |
 | 4024 | The Queen of the Dead | | |
 | 4025 | Zombie Namor | | | 
