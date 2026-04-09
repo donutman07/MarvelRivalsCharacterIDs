@@ -339,6 +339,7 @@
 | | | 1047305 | POWDER PINK |
 | | | 1047306 | BLUE BLIZZARD |
 | | | 1047307 | DUCK DEFENDER |
+| | | 1047308 | MAID TO CHOMP |
 | | | 1047310 | WHITE WADDLE |
 | | | 1047311 | GREEN BILL |
 | | | 1047500 | Incognito Dolphin |
@@ -410,6 +411,7 @@
 | | | 1052300 | Lion's Gaze |
 | | | 1052301 | Binary Fist |
 | | | 1052302 | Shenloong Champion |
+| | | 1052303 | LIN SHAO: THE KNOCKOUT |
 | | | 1052304 | SAVAGE SPIRIT | 
 | | | 1052305 | LIVELY LION |
 | | | 1052500 | Sword Master | 
@@ -457,6 +459,9 @@
 | | | 1057113 | 100 THIEVES (IGNITE SERIES 2026) |
 | | | 1057101 | Workwear Woes |
 | | | 1057300 | CAPTAIN POOL |
+| | | 1057500 | MAID-POOL |
+| | | 1057501 | YAPPING YOLK |
+| | | 1057502 | POPPIN' PEACH
 | | | 1057800 | WADE WILSON: SPIRIT SQUAD
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
