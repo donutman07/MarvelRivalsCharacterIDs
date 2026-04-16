@@ -56,6 +56,7 @@
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
 | 1020 | Mantis | 1020100 | KNOWHERE CORP |
 | | | 1020101 | WILL OF GALACTA |
+| | | 1020102 | BLACK & GOLD |
 | | | 1020300 | Galactic Wings |
 | | | 1020301 | Jade Maiden |
 | | | 1020302 | OCEANIC HARMONY |
@@ -182,6 +183,7 @@
 | | | 1032303 | TURBO TAILWIND |
 | | | 1032304 | TINSEL TAIL |
 | | | 1032305 | RED PANDA |
+| | | 1032306 | MAUREEN ALLENE: THE PROGRAMMER |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -226,6 +228,7 @@
 | | | 1036506 | Future Foundation (Alt.) |
 | | | 1036508 | IRON SPIDER |
 | | | 1036509 | GROOVY SWING |
+| | | 1035510 | PETER PARKER: THE PHOTOGRAPHER |
 | | | 1036800 | Spider-Man: No Way Home |
 | | | 1036801 | MARVEL COSMIC INVASION |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
@@ -310,6 +313,7 @@
 | | | 1044102 | Emerald Blade |
 | | | 1044300 | Polarity Edge |
 | | | 1044301 | Vampire Slayer |
+| | | 1044302 | STARLIT SHADOW |
 | | | 1044500 | Restful Recovery |
 | | | 1044800 | BLADE KNIGHT |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
@@ -356,8 +360,11 @@
 | | | 1048306 | BLUE BOLT |
 | | | 1048307 | MATCHA MIRAGE |
 | | | 1048308 | GRAPE WAGASHI |
+| | | 1048309 | CHOUKO TAKAHASHI: THE PRODIGY |
 | | | 1048311 | TWILIGHT TONES |
 | | | 1048312 | AMETHYST AURA |
+| | | 1048313 | SPORTY TEA |
+| | | 1048314 | COBALT CHARM |
 | | | 1048500 | Vengeance |
 | | | 1048501 | Retro X-Uniform |
 | | | 1048502 | Breezy Butterfly |
@@ -435,6 +442,7 @@
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
+| | | 1055103 | WILL OF GALACTA |
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
@@ -465,6 +473,7 @@
 | | | 1057800 | WADE WILSON: SPIRIT SQUAD
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
+| | | 1058102 | WILL OF GALACTA |
 | | | 1058300 | THIEVES GUILDMASTER |
 | | | 1058302 | MR. X |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
@@ -473,7 +482,9 @@
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
 | | | 1060500 | YOON JI-WOO: THE LEADER:
-| 1061 | Black Cat | | | 
+| 1061 | Black Cat | 1061100 | GILDED SHADOW
+| | | 1061101 | BEGUILING BLUE |
+| | | 1061300 | URBAN PREDATOR |
 | 1062 | Devil Dinosaur | | | 
 | 1063 | Nightcrawler | | |
 | 1064 | Jubilee | | |
@@ -517,10 +528,17 @@
 | 4038 | No Data | | |
 | 4039 | No Data | | |
 | 4040 | No Data | | |
+| 4041 | No Data | | | 
+| 4042 | No Data | | | 
 | 4043 | No Data | | |
 | 4044 | No Data | | |
 | 4045 | No Data | | |
 | 4046 | No Data | | |
+| 4047 | No Data | | | 
+| 4048 | No Data | | | 
+| 4049 | No Data | | |
+| 4050 | No Data | | | 
+| 4051 | No Data | | |
 | 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
 | 4062 | Kingpin | | | 
