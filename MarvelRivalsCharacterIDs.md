@@ -544,6 +544,7 @@
 | 4049 | DARKHOLD CULTIST | | |
 | 4050 | CRAZED CRAWLER | | | 
 | 4051 | BLOODWING HUNTER | | |
+| 4052 | Zombie (For Dev) | | |
 | 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
 | 4062 | Kingpin | | | 
