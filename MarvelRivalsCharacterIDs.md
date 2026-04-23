@@ -151,6 +151,7 @@
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
+| | | 1029503 | NETHERWORLD NOBLE |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
@@ -158,6 +159,7 @@
 | | | 1030302 | ECLIPSE KNIGHT |
 | | | 1030500 | Mister Knight |
 | | | 1030501 | Phoenix Knight |
+| | | 1030502 | SUAVE SPECTOR |
 | | | 1030800 | Fist Of Vengeance |
 | | | 1030801 | Moon Knight Mech |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
@@ -429,6 +431,7 @@
 | | | 1053102 | Golden Diamond |
 | | | 1053300 | Hellfire Protocol |
 | | | 1053301 | QUEEN OF DIAMONDS |
+| | | 1053304 | GALA GLAM |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | | | 1053502 | BLACK QUEEN OF THE MARAUDERS |
@@ -439,6 +442,7 @@
 | | | 1054301 | ICE PHOENIX |
 | | | 1054500 | Dark Phoenix | 
 | | | 1054501 | SEAT OF SPRING |
+| | | 1054502 | VERDANT VOGUE |
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
@@ -476,6 +480,7 @@
 | | | 1058102 | WILL OF GALACTA |
 | | | 1058300 | THIEVES GUILDMASTER |
 | | | 1058302 | MR. X |
+| | | 1058303 | ALLURING ACE |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
@@ -523,22 +528,22 @@
 | 4029 | Zombie (For Dev) | | 丧尸代理角色（程序用) |
 | 4030 | No Data | | |
 | 4032 | Khonshu | | Marvel Zombies Announcer |
-| 4036 | No Data | | |
-| 4037 | No Data | | |
-| 4038 | No Data | | |
-| 4039 | No Data | | |
-| 4040 | No Data | | |
-| 4041 | No Data | | | 
-| 4042 | No Data | | | 
-| 4043 | No Data | | |
-| 4044 | No Data | | |
-| 4045 | No Data | | |
-| 4046 | No Data | | |
-| 4047 | No Data | | | 
-| 4048 | No Data | | | 
-| 4049 | No Data | | |
-| 4050 | No Data | | | 
-| 4051 | No Data | | |
+| 4036 | CAPWOLF | | |
+| 4037 | RATATOSKR | | |
+| 4038 | DRACULA | | |
+| 4039 | KINGPIN | | |
+| 4040 | NEONATE VAMPIRE | | |
+| 4041 | SAVAGE BLOODFIEND | | | 
+| 4042 | CREEPING TERROR | | | 
+| 4043 | BLIGHT BOMBER | | |
+| 4044 | BLOOD-BLIGHT BOMBER | | |
+| 4045 | PUSTULE FIEND | | |
+| 4046 | ROYAL BLOODGUARD | | |
+| 4047 | SKY STALKER | | | 
+| 4048 | AIRBORNE ALCHEMIST | | | 
+| 4049 | DARKHOLD CULTIST | | |
+| 4050 | CRAZED CRAWLER | | | 
+| 4051 | BLOODWING HUNTER | | |
 | 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
 | 4062 | Kingpin | | | 
