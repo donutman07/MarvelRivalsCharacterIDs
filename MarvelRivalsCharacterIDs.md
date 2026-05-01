@@ -35,6 +35,8 @@
 | | | 1016502 | LADY LOKI |
 | | | 1016503 | LOW-KEY LOKI |
 | | | 1016800 | Loki Season 2 |
+| | | 1016801 | THE AVENGERS |
+| | | 1016802 | TWILIGHT AURORA |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
 | | | 1017300 | JACK OF HEARTS |
@@ -204,6 +206,7 @@
 | | | 1034503 | Big Shot |
 | | | 1034504 | Mark I |
 | | | 1034800 | Avengers: Endgame |
+| | | 1034801 | THE AVENGERS | 
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035102 | Hyper Orange |
@@ -484,6 +487,9 @@
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
+| | | 1059500 | BLOODY BLOODSTONE |
+| | | 1059501 | MARINE MAID | 
+| | | 1059502 | PASTEL POLISHER |
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
 | | | 1060500 | YOON JI-WOO: THE LEADER:
@@ -548,6 +554,8 @@
 | 4057 | Deadpool | | | 
 | 4061 | The Thing | | | 
 | 4062 | Kingpin | | | 
+| 4063 | Kingpin | | |
+| 4071 | God Of Stories | Path To Doomsday Announcer | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
