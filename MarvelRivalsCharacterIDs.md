@@ -290,6 +290,7 @@
 | | | 1041300 | Blood Soldier | 
 | | | 1041301 | Polarity Knight |
 | | | 1041302 | Winter's Wrath |
+| | | 1041304 | STARLIT GUNSLINGER |
 | | | 1041500 | Revolution | 
 | | | 1041501 | Winter's Veil |
 | | | 1041502 | WINTER BUCKAROO |
