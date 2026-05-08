@@ -219,6 +219,7 @@
 | | | 1035305 | Frosted Agony |
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
+| | | 1035502 | WAR OF THE REALMS |
 | | | 1035800 | MARVEL COSMIC INVASION
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
@@ -284,6 +285,8 @@
 | | | 1040502 | Future Foundation (Alt.) |
 | | | 1040800 | The Fantastic Four: First Steps |
 | 1041 | Winter Soldier | 1041100 | Navy Trooper |
+| | | 1041102 | RUBY RANGER |
+| | | 1041103 | TAWNY TRACKER |
 | | | 1041300 | Blood Soldier | 
 | | | 1041301 | Polarity Knight |
 | | | 1041302 | Winter's Wrath |
