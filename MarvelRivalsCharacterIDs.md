@@ -7,6 +7,7 @@
 | | | 1011500 | Punk Rage
 | | | 1011501 | Green Scar |
 | | | 1011502 | Joe Fixit |
+| | | 1011800 | INFINITY HULK |
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014300 | Dangan Ronin |
 | | | 1014301 | MARAUDER MARKSMAN |
@@ -39,6 +40,7 @@
 | | | 1016802 | TWILIGHT AURORA |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
+| | | 1017102 | SILVER SPARK |
 | | | 1017300 | JACK OF HEARTS |
 | | | 1017500 | Negative Zone Gladiator |
 | | | 1017501 | Future Foundation |
@@ -66,6 +68,7 @@
 | | | 1020304 | Citrus Sunrise |
 | | | 1020305 | Galactic Gladiator |
 | | | 1020500 | Flora Maiden |
+| | | 1020501 | STARLIT MADONNA
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021101 | WILL OF GALACTA |
@@ -84,6 +87,7 @@
 | | | 1022502 | Captain Klyntar |
 | | | 1022503 | Golden Age |
 | | | 1022504 | Capwolf |
+| | | 1022505 | PRIMAL PATRIOT |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023101 | Will of Galacta |
@@ -246,6 +250,7 @@
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | | | 1037502 | SEAT OF AUTUMN |
+| | | 1037503 | UNTAMED OVERLORD |
 | 1038 | Scarlet Witch | 1038100 | WHITE WITCH |
 | | | 1038101 | NYX WEAVER |
 | | | 1038102 | WILL OF GALACTA |
@@ -272,6 +277,7 @@
 | | | 1039503 | Majestic Raiment |
 | | | 1039504 | BOOGIE BOLT |
 | | | 1039505 | LOW-KEY THOR |
+| | | 1039506 | UNWORTHY THOR |
 | | | 1039507 | SHADOW SHOCK |
 | | | 1039508 | PURPLE PULSE |
 | | | 1039800 | Thor: Love and Thunder |
@@ -313,6 +319,7 @@
 | | | 1043300 | Lion's Mane |
 | | | 1043301 | STARCRACKER |
 | | | 1043302 | GROOVY GUARDIAN |
+| | | 1043303 | GLORY GUNNER |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
 | | | 1043502 | Starlit Outlaw |
@@ -353,8 +360,11 @@
 | | | 1047306 | BLUE BLIZZARD |
 | | | 1047307 | DUCK DEFENDER |
 | | | 1047308 | MAID TO CHOMP |
+| | | 1047309 | DEVIL LANDSHARK |
 | | | 1047310 | WHITE WADDLE |
 | | | 1047311 | GREEN BILL |
+| | | 1047312 | MAGMA MENACE |
+| | | 1047313 | ROSY RUIN
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark |
@@ -421,6 +431,7 @@
 | | | 1051502 | Symbiote-Thing |
 | | | 1051503 | Future Foundation (Alt.) |
 | | | 1051504 | FEAR ITSELF |
+| | | 1051505 | INFINITY THING |
 | | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052101 | WILL OF GALACTA |
@@ -478,9 +489,10 @@
 | | | 1057112 | FLYQUEST (IGNITE SERIES 2026) |
 | | | 1057113 | 100 THIEVES (IGNITE SERIES 2026) |
 | | | 1057300 | CAPTAIN POOL |
+| | | 1057301 | MONSTER KING
 | | | 1057500 | MAID-POOL |
 | | | 1057501 | YAPPING YOLK |
-| | | 1057502 | POPPIN' PEACH
+| | | 1057502 | POPPIN' PEACH |
 | | | 1057800 | WADE WILSON: SPIRIT SQUAD
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
@@ -488,6 +500,7 @@
 | | | 1058300 | THIEVES GUILDMASTER |
 | | | 1058302 | MR. X |
 | | | 1058303 | ALLURING ACE |
+| | | 1058500 | BARRIER BUSTER |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
@@ -500,13 +513,19 @@
 | 1061 | Black Cat | 1061100 | GILDED SHADOW
 | | | 1061101 | BEGUILING BLUE |
 | | | 1061300 | URBAN PREDATOR |
-| 1062 | Devil Dinosaur | | | 
-| 1063 | Nightcrawler | | |
+| 1062 | Devil Dinosaur | 1062100 | TROPICAL BEAST | 
+| | | 1062101 | CORPORATE CRUNCHER |
+| | | 1062500 | CHRONO-ARMOR |
+| 1063 | Cyclops | | |
 | 1064 | Jubilee | | |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
+| | | 1065102 | WILL OF GALACTA |
 | | | 1065300 | ROGUE REDUX |
 | | | 1065301 | MRS. X |
+| | | 1065500 | STARLIT REBEL | 
+| | | 1065502 | MIDNIGHT MIRAGE |
+| | | 1065503 | HIGH NOON |
 | 1066 | | | |
 | 1067 | Armor | | | 
 | 1068 | Hive | | |
@@ -519,6 +538,7 @@
 | 1060 | Colossus (Old) | | |
 | 1061 | Locus (Old) | | | 
 | 1062 | Beast (Old) | | | 
+| 1063 | Nightcrawler (Old) | | |
 | 1066 | Gambit (Old) | | |
 | 1069 | White Fox (Old) | | |
 | 4016 | Galacta Bot | | |
