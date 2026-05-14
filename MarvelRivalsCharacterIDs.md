@@ -158,6 +158,8 @@
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
 | | | 1029503 | NETHERWORLD NOBLE |
+| | | 1029505 | BLUE BLITZ |
+| | | 1029506 | LAVENDER LIMBO |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
