@@ -108,7 +108,8 @@
 | | | 1024303 | Queen in Black |
 | | | 1024304 | The Grim Lady |
 | | | 1024305 | DISCO OF THE DEAD |
-| | | 1024306 | HELEN ANGERBODA: THE REBEL
+| | | 1024306 | HELEN ANGERBODA: THE REBEL |
+| | | 1024307 | SAVAGE MONARCH |
 | | | 1024309 | RUBY REVOLT |
 | | | 1024310 | VIOLET VIOLENCE
 | | | 1024500 | Goddess of Death |
@@ -142,6 +143,7 @@
 | | | 1028101 | Golden Ultron |
 | | | 1028102 | WILL OF GALACTA |
 | | | 1028300 | Wasteland Robot |
+| | | 1028302 | CYBERNETIC DRIP |
 | | | 1028500 | X-Tron |
 | | | 1028502 | ODINFORCE ULTRON |
 | | | 1028800 | INFINITY ULTRON |
@@ -184,8 +186,11 @@
 | | | 1031310 | BLUEBERRY ICE |
 | | | 1031311 | FRUIT CAKE FLURRY |
 | | | 1031312 | PARK SUN-YOUNG: THE DANCER |
+| | | 1031313 | SONIC TRAILBLAZER |
 | | | 1031314 | JADE JEWEL |
-| | | 1031315 | NIGHT NEBULA | 
+| | | 1031315 | NIGHT NEBULA |
+| | | 1031317 | PURPLE PULSE |
+| | | 1031318 | CITRUS SPARK |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
@@ -312,9 +317,12 @@
 | | | 1042303 | SNOW SP//DR |
 | | | 1042304 | SKELETON |
 | | | 1042305 | BADLANDS LULLABY |
+| | | 1042306 | PENI PARKER: THE FRESHMAN |
 | | | 1042308 | TOXIC TINT |
 | | | 1042309 | CERULEAN CORRUPTION |
 | | | 1042500 | VEN#M |
+| | | 1042501 | BERRY BLAST |
+| | | 1042502 | FROSTY FALL |
 | 1043 | Star-Lord | 1043100 | JOVIAL STAR |
 | | | 1043102 | IGNITE STAR-LORD (2025) |
 | | | 1043103 | Luminous Legend |
@@ -469,6 +477,7 @@
 | | | 1055103 | WILL OF GALACTA |
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
+| | | 1055502 | SHADOWED START |
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
