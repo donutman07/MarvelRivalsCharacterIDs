@@ -403,6 +403,7 @@
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049300 | Blood Berserker |
 | | | 1049301 | DOG BROTHER X |
+| | | 1049302 | X-2099 |
 | | | 1049500 | Patch |
 | | | 1049501 | Weapon X |
 | | | 1049502 | Weapon PhoeniX |
@@ -520,14 +521,18 @@
 | | | 1059502 | PASTEL POLISHER |
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
-| | | 1060500 | YOON JI-WOO: THE LEADER:
-| 1061 | Black Cat | 1061100 | GILDED SHADOW
+| | | 1060500 | YOON JI-WOO: THE LEADER |
+| 1061 | Black Cat | 1061100 | GILDED SHADOW |
 | | | 1061101 | BEGUILING BLUE |
 | | | 1061300 | URBAN PREDATOR |
+| | | 1061301 | PURPLE PROWL |
+| | | 1061302 | PINK PURR |
+| | | 1061500 | WILD CARD |
 | 1062 | Devil Dinosaur | 1062100 | TROPICAL BEAST | 
 | | | 1062101 | CORPORATE CRUNCHER |
 | | | 1062500 | CHRONO-ARMOR |
 | 1063 | Cyclops | | |
+| | | 1063500 | ALCHEMAX |
 | 1064 | Jubilee | | |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
