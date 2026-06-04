@@ -67,6 +67,7 @@
 | | | 1020303 | Blue Breeze |
 | | | 1020304 | Citrus Sunrise |
 | | | 1020305 | Galactic Gladiator |
+| | | 1020307 | MANDY CELESTINE: THE GREETER |
 | | | 1020500 | Flora Maiden |
 | | | 1020501 | STARLIT MADONNA
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
@@ -216,6 +217,7 @@
 | | | 1034502 | Extrembiote Armor |
 | | | 1034503 | Big Shot |
 | | | 1034504 | Mark I |
+| | | 1034505 | IRON SAMURAI |
 | | | 1034800 | Avengers: Endgame |
 | | | 1034801 | THE AVENGERS | 
 | 1035 | Venom | 1035100 | CYAN CLASH |
