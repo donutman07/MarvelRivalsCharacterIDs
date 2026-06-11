@@ -19,6 +19,7 @@
 | | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
+| | | 1015101 | WILL OF GALACTA
 | | | 1015300 | QUEEN OF ORPHANS (Judicator Xiezhi) |
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
@@ -136,6 +137,7 @@
 | | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
 | | | 1027303 | MECHA-FLORA |
+| | | 1027304 | IRONWOOD SERPENT |
 | | | 1027500 | Carved Traveler |
 | | | 1027501 | Symbiote Flora |
 | | | 1027502 | BIG BUDDY |
@@ -155,8 +157,9 @@
 | | | 1029302 | Rosy Resilience |
 | | | 1029303 | NEW MILENNIA MIGHT |
 | | | 1029304 | INFERNAL IDOL |
-| | | 1029305 | LAVENDER LIMBO |
-| | | 1029306 | BLUE BLITZ |
+| | | 1029305 | SOULLESS SWORD |
+| | | 1029306 | GREEN GLOW |
+| | | 1029307 | NEON NEMESIS |
 | | | 1029500 | Eldritch Armor |
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
@@ -474,6 +477,7 @@
 | | | 1054500 | Dark Phoenix | 
 | | | 1054501 | SEAT OF SPRING |
 | | | 1054502 | VERDANT VOGUE |
+| | | 1054503 | WHITE CROWN PHOENIX |
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
@@ -533,8 +537,9 @@
 | 1062 | Devil Dinosaur | 1062100 | TROPICAL BEAST | 
 | | | 1062101 | CORPORATE CRUNCHER |
 | | | 1062500 | CHRONO-ARMOR |
-| 1063 | Cyclops | | |
-| | | 1063500 | ALCHEMAX |
+| 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
+| | | 1063101 | FUTURISTIC FOCUS |
+| | | 1063500 | WEAPON M |
 | 1064 | Jubilee | | |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
@@ -603,6 +608,8 @@
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
 | ???? | Captain Marvel | | | 
+| ???? | Doctor Doom | | |
+| ???? | Gorr The God Butcher |
 | ???? | Hit-Monkey | | | 
 | ???? | The Hood | | | 
 | ???? | Valkyrie | | | 
