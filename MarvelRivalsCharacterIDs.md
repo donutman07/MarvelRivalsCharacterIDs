@@ -56,6 +56,9 @@
 | | | 1018302 | BLEEKER STREET STRUT |
 | | | 1018303 | PHANTOM SORCERER |
 | | | 1018304 | STEPHEN SANDERS: THE DOCTOR |
+| | | 1018305 | NAUTICAL MYSTIC |
+| | | 1018307 | CRIMSON CONJURER |
+| | | 1018308 | MAGICAL MINT |
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
@@ -122,8 +125,11 @@
 | | | 1025302 | Polarity Bond |
 | | | 1025303 | ICE PAS DE DEUX |
 | | | 1025304 | DARING DUO |
+| | | 1025305 | COASTAL COUPLE |
 | | | 1025306 | DARKENED DAY |
 | | | 1025307 | TWISTED THORNS |
+| | | 1025308 | SAPPHIRE SPLASH |
+| | | 1025309 | SUNSET SHORES |
 | | | 1025500 | Growth & Decay |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
@@ -240,7 +246,8 @@
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
 | | | 1036102 | Black & Gold |
-| | | 1036300 | Spider-Oni
+| | | 1036300 | Spider-Oni |
+| | | 1036301 | COASTAL WALL-CRAWLER |
 | | | 1036500 | 2099: SPIDER-PUNK |
 | | | 1036501 | Bag-Man Beyond |
 | | | 1036502 | Black Suit |
@@ -298,6 +305,7 @@
 | | | 1040300 | The Life Fantastic |
 | | | 1040301 | Dad-tastic Reed |
 | | | 1040302 | DANUM KET: THE PROFESSOR |
+| | | 1040303 | FANTASTIC BEACH DAD |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
 | | | 1040502 | Future Foundation (Alt.) |
@@ -457,6 +465,7 @@
 | | | 1052303 | LIN SHAO: THE KNOCKOUT |
 | | | 1052304 | SAVAGE SPIRIT | 
 | | | 1052305 | LIVELY LION |
+| | | 1052310 | SHOU-LAO'S CHAMPION |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
 | | | 1052502 | Phoenix Fist |
@@ -465,7 +474,10 @@
 | | | 1053102 | Golden Diamond |
 | | | 1053300 | Hellfire Protocol |
 | | | 1053301 | QUEEN OF DIAMONDS |
+| | | 1053302 | WHITE WAVE QUEEN |
 | | | 1053304 | GALA GLAM |
+| | | 1053305 | CAVIAR BLACK |
+| | | 1053306 | RAVISHING RED |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | | | 1053502 | BLACK QUEEN OF THE MARAUDERS |
