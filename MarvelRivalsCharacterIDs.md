@@ -216,7 +216,10 @@
 | | | 1033500 | Red Runway Veil |
 | | | 1033501 | Mrs. Barnes |
 | | | 1033502 | Phoenix Widow |
-| | | 1033503 | MIDNIGHT SUSPENSE
+| | | 1033503 | MIDNIGHT SUSPENSE |
+| | | 1033504 | AQUATIC ASSASSIN |
+| | | 1033505 | GOLDEN GOSSAMER |
+| | | 1033506 | TOXIC TRACE |
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
@@ -414,6 +417,7 @@
 | | | 1048504 | Violet  Veil |
 | | | 1048505 | Moonlit Mirage |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
+| | | 1049101 | WILL OF GALACTA |
 | | | 1049300 | Blood Berserker |
 | | | 1049301 | DOG BROTHER X |
 | | | 1049302 | X-2099 |
@@ -494,6 +498,7 @@
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
 | | | 1055103 | WILL OF GALACTA |
+| | | 1055300 | SONAR SAVIOR
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
 | | | 1055502 | SHADOWED START |
