@@ -36,6 +36,9 @@
 | | | 1016501 | All-Butcher | 
 | | | 1016502 | LADY LOKI |
 | | | 1016503 | LOW-KEY LOKI |
+| | | 1016504 | SEASIDE SIREN |
+| | | 1016505 | SUNLIT SOVEREIGN |
+| | | 1016506 | SAPPHIRE SORCERESS |
 | | | 1016800 | Loki Season 2 |
 | | | 1016801 | THE AVENGERS |
 | | | 1016802 | TWILIGHT AURORA |
@@ -87,6 +90,7 @@
 | | | 1022300 | Galactic Talon |
 | | | 1022301 | CURSED CAPTAIN |
 | | | 1022302 | BRETT HENDRICK: THE STAR |
+| | | 1022303 | SEASIDE SENTINEL |
 | | | 1022500 | Captain Gladiator |
 | | | 1022501 | Star Spangled Style |
 | | | 1022502 | Captain Klyntar |
@@ -544,7 +548,10 @@
 | | | 1059502 | PASTEL POLISHER |
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
+| | | 1060300 | MAGICAL MINT |
+| | | 1060301 | PINK PAWS |
 | | | 1060500 | YOON JI-WOO: THE LEADER |
+| | | 1060501 | COASTAL KUMIHO |
 | 1061 | Black Cat | 1061100 | GILDED SHADOW |
 | | | 1061101 | BEGUILING BLUE |
 | | | 1061300 | URBAN PREDATOR |
