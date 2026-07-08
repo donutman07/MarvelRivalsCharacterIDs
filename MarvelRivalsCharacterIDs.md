@@ -233,7 +233,7 @@
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
 | | | 1034301 | IRON MARINER |
-| | | 1034302 | Iron Pharoah |
+| | | 1034302 | Iron Pharaoh |
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
