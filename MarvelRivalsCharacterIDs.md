@@ -74,6 +74,7 @@
 | | | 1020303 | Blue Breeze |
 | | | 1020304 | Citrus Sunrise |
 | | | 1020305 | Galactic Gladiator |
+| | | 1020306 | Akkaban Acolyte |
 | | | 1020307 | MANDY CELESTINE: THE GREETER |
 | | | 1020500 | Flora Maiden |
 | | | 1020501 | STARLIT MADONNA
@@ -87,6 +88,7 @@
 | | | 1021501 | Freefall |
 | | | 1021502 | Binary Arrow |
 | 1022 | Captain America | 1022100 | Captain A.I.M.erica |
+| | | 1022102 | Will of Galacta | 
 | | | 1022300 | Galactic Talon |
 | | | 1022301 | CURSED CAPTAIN |
 | | | 1022302 | BRETT HENDRICK: THE STAR |
@@ -108,6 +110,7 @@
 | | | 1023305 | ROCKET OF THE RAFTERS |
 | | | 1023306 | GIANT PANDA |
 | | | 1023307 | ROCKY: THE TRANSFER |
+| | | 1023308 | Golden Artificier |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
@@ -135,6 +138,7 @@
 | | | 1025308 | SAPPHIRE SPLASH |
 | | | 1025309 | SUNSET SHORES |
 | | | 1025500 | Growth & Decay |
+| | | 1025501 | Storied Survivors |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
@@ -159,6 +163,7 @@
 | | | 1028302 | CYBERNETIC DRIP |
 | | | 1028500 | X-Tron |
 | | | 1028502 | ODINFORCE ULTRON |
+| | | 1028503 | Ultron-15 |
 | | | 1028800 | INFINITY ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
@@ -227,7 +232,8 @@
 | | | 1033800 | White Suit |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
-| | | 1034301 | IRON MARINER
+| | | 1034301 | IRON MARINER |
+| | | 1034302 | Iron Pharoah |
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
@@ -249,6 +255,7 @@
 | | | 1035500 | LINGERING IMPRINT |
 | | | 1035501 | Space Knight |
 | | | 1035502 | WAR OF THE REALMS |
+| | | 1035503 | Venom Bloom |
 | | | 1035800 | MARVEL COSMIC INVASION
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
@@ -309,6 +316,7 @@
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040101 | WILL OF GALACTA |
+| | | 1040102 | Red-y 4 Action |
 | | | 1040300 | The Life Fantastic |
 | | | 1040301 | Dad-tastic Reed |
 | | | 1040302 | DANUM KET: THE PROFESSOR |
@@ -370,6 +378,7 @@
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045501 | Retro X-Uniform |
 | | | 1045502 | Phoenix King |
+| | | 1045503 | Lord of Atlantis |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
@@ -429,6 +438,7 @@
 | | | 1049501 | Weapon X |
 | | | 1049502 | Weapon PhoeniX |
 | | | 1049503 | Winter Soldier |
+| | | 1049504 | Bloodless Beserker |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
@@ -528,7 +538,8 @@
 | | | 1057112 | FLYQUEST (IGNITE SERIES 2026) |
 | | | 1057113 | 100 THIEVES (IGNITE SERIES 2026) |
 | | | 1057300 | CAPTAIN POOL |
-| | | 1057301 | MONSTER KING
+| | | 1057301 | MONSTER KING |
+| | | 1057302 | DEAD MUMMY |
 | | | 1057500 | MAID-POOL |
 | | | 1057501 | YAPPING YOLK |
 | | | 1057502 | POPPIN' PEACH |
@@ -543,9 +554,12 @@
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
+| | | 1059301 | 苍岩 |
+| | | 1059302 | 幽苔 |
 | | | 1059500 | BLOODY BLOODSTONE |
 | | | 1059501 | MARINE MAID | 
 | | | 1059502 | PASTEL POLISHER |
+| | | 1059503 | Primal Predator |
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
 | | | 1060300 | MAGICAL MINT |
@@ -564,18 +578,21 @@
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
 | | | 1063500 | WEAPON M |
-| 1064 | Jubilee | | |
+| 1064 | Jubilee | 1064100 | Cool Combustion |
+| | | 1064101 | Crimson Crown |
+| | | 1064500 | MIDNIGHT MUTANT |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
 | | | 1065102 | WILL OF GALACTA |
 | | | 1065300 | ROGUE REDUX |
 | | | 1065301 | MRS. X |
 | | | 1065500 | STARLIT REBEL | 
+| | | 1065501 | Raider Prime |
 | | | 1065502 | MIDNIGHT MIRAGE |
 | | | 1065503 | HIGH NOON |
-| 1066 | | | |
-| 1067 | Armor | | | 
-| 1068 | Hive | | |
+| 1066 | The Hood | | |
+| 1067 | Gorr | | | 
+| 1068 | Nightcrawler | | |
 | 1069 | | | |
 | 1070 | Forge | | | 
 | 1071 | Amaranth | | |
@@ -587,6 +604,8 @@
 | 1062 | Beast (Old) | | | 
 | 1063 | Nightcrawler (Old) | | |
 | 1066 | Gambit (Old) | | |
+| 1067 | Armor (Old) | | | 
+| 1068 | Hive (Old) | | | 
 | 1069 | White Fox (Old) | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | 4017500 | Rivals' Day 2025 |
