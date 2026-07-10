@@ -74,7 +74,7 @@
 | | | 1020303 | Blue Breeze |
 | | | 1020304 | Citrus Sunrise |
 | | | 1020305 | Galactic Gladiator |
-| | | 1020306 | Akkaban Acolyte |
+| | | 1020306 | AKKABAN ACOLYTE |
 | | | 1020307 | MANDY CELESTINE: THE GREETER |
 | | | 1020500 | Flora Maiden |
 | | | 1020501 | STARLIT MADONNA
@@ -110,7 +110,7 @@
 | | | 1023305 | ROCKET OF THE RAFTERS |
 | | | 1023306 | GIANT PANDA |
 | | | 1023307 | ROCKY: THE TRANSFER |
-| | | 1023308 | Golden Artificier |
+| | | 1023308 | GOLDEN ARTIFICIER |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
@@ -138,7 +138,7 @@
 | | | 1025308 | SAPPHIRE SPLASH |
 | | | 1025309 | SUNSET SHORES |
 | | | 1025500 | Growth & Decay |
-| | | 1025501 | Storied Survivors |
+| | | 1025501 | STORIES SURVIVORS |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
@@ -163,7 +163,7 @@
 | | | 1028302 | CYBERNETIC DRIP |
 | | | 1028500 | X-Tron |
 | | | 1028502 | ODINFORCE ULTRON |
-| | | 1028503 | Ultron-15 |
+| | | 1028503 | ULTRON-15 |
 | | | 1028800 | INFINITY ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
@@ -233,7 +233,7 @@
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
 | | | 1034301 | IRON MARINER |
-| | | 1034302 | Iron Pharaoh |
+| | | 1034302 | IRON PHARAOH |
 | | | 1034500 | 1872: STEAM POWER |
 | | | 1034501 | Superior Iron Man |
 | | | 1034502 | Extrembiote Armor |
@@ -316,7 +316,7 @@
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040101 | WILL OF GALACTA |
-| | | 1040102 | Red-y 4 Action |
+| | | 1040102 | RED-Y 4 ACTION |
 | | | 1040300 | The Life Fantastic |
 | | | 1040301 | Dad-tastic Reed |
 | | | 1040302 | DANUM KET: THE PROFESSOR |
@@ -378,7 +378,7 @@
 | | | 1045500 | Savage Sub-Mariner |
 | | | 1045501 | Retro X-Uniform |
 | | | 1045502 | Phoenix King |
-| | | 1045503 | Lord of Atlantis |
+| | | 1045503 | LORD OF ATLANTIS |
 | | | 1045800 | Black Panther: Wakanda Forever | 
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
@@ -438,7 +438,7 @@
 | | | 1049501 | Weapon X |
 | | | 1049502 | Weapon PhoeniX |
 | | | 1049503 | Winter Soldier |
-| | | 1049504 | Bloodless Beserker |
+| | | 1049504 | BLOODLESS BESERKER |
 | | | 1049800 | Deadpool & Wolverine |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
@@ -554,8 +554,8 @@
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059300 | YOUNG BLOOD |
-| | | 1059301 | 苍岩 |
-| | | 1059302 | 幽苔 |
+| | | 1059301 | SILVER STALKER |
+| | | 1059302 | JADE JAGUAR |
 | | | 1059500 | BLOODY BLOODSTONE |
 | | | 1059501 | MARINE MAID | 
 | | | 1059502 | PASTEL POLISHER |
@@ -578,8 +578,8 @@
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
 | | | 1063500 | WEAPON M |
-| 1064 | Jubilee | 1064100 | Cool Combustion |
-| | | 1064101 | Crimson Crown |
+| 1064 | Jubilee | 1064100 | COOL COMBUSTION |
+| | | 1064101 | CRIMSON CROWN |
 | | | 1064500 | MIDNIGHT MUTANT |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
@@ -587,7 +587,7 @@
 | | | 1065300 | ROGUE REDUX |
 | | | 1065301 | MRS. X |
 | | | 1065500 | STARLIT REBEL | 
-| | | 1065501 | Raider Prime |
+| | | 1065501 | RAIDER PRIME |
 | | | 1065502 | MIDNIGHT MIRAGE |
 | | | 1065503 | HIGH NOON |
 | 1066 | The Hood | | |
