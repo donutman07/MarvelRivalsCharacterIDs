@@ -84,6 +84,9 @@
 | | | 1021102 | ARGENT ARCHER |
 | | | 1021300 | Galactic Fangs |
 | | | 1021301 | Old Man Hawkeye |
+| | | 1021302 | BED-STUY'S BEST |
+| | | 1021303 | TEAL TREND |
+| | | 1021304 | DAZZLING DRIP |
 | | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
 | | | 1021502 | Binary Arrow |
@@ -280,6 +283,7 @@
 | | | 1037300 | Binary Sword |
 | | | 1037301 | TEMPORAL TYRANT |
 | | | 1037302 | The Trial of Magneto |
+| | | 1037303 | MAGNETIC VINTAGE |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | | | 1037502 | SEAT OF AUTUMN |
@@ -386,6 +390,7 @@
 | | | 1046300 | Immortal Avatar |
 | | | 1046301 | Blood Soul | 
 | | | 1046302 | COSMIC WARLOCK |
+| | | 1046303 | TAILORED PERFECTION |
 | | | 1046500 | MAGUS |
 | | | 1046501 | LIVING TRIBUNAL |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
@@ -453,6 +458,9 @@
 | | | 1050307 | ROYAL BLUE REBUTTAL |
 | | | 1050308 | Radiant Ray |
 | | | 1050309 | Vivid Vibe |
+| | | 1050310 | BAXTER BUILDING BEAUTY |
+| | | 1050311 | PRETTY IN PINK |
+| | | 1050312 | CLASSIC CONTRAST
 | | | 1050500 | Malice | 
 | | | 1050501 | Future Foundation |
 | | | 1050502 | AZURE SHADE |
@@ -550,6 +558,7 @@
 | | | 1058300 | THIEVES GUILDMASTER |
 | | | 1058302 | MR. X |
 | | | 1058303 | ALLURING ACE |
+| | | 1058304 | DEAD MAN'S HAND |
 | | | 1058500 | BARRIER BUSTER |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
@@ -574,7 +583,10 @@
 | | | 1061500 | WILD CARD |
 | 1062 | Devil Dinosaur | 1062100 | TROPICAL BEAST | 
 | | | 1062101 | CORPORATE CRUNCHER |
+| | | 1062300 | PLAYFUL PINK |
+| | | 1062301 | VIBRANT VIOLET |
 | | | 1062500 | CHRONO-ARMOR |
+| | | 1062501 | JEFF THE DINOSAUR |
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
 | | | 1063500 | WEAPON M |
