@@ -663,6 +663,7 @@
 | 4061 | The Thing | | | 
 | 4062 | Kingpin | | | 
 | 4063 | Kingpin | | |
+| 4064 | Apocalypse | | | 
 | 4071 | God Of Stories | | Path To Doomsday Announcer | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
