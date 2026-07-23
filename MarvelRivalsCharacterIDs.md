@@ -125,9 +125,12 @@
 | | | 1024305 | DISCO OF THE DEAD |
 | | | 1024306 | HELEN ANGERBODA: THE REBEL |
 | | | 1024307 | SAVAGE MONARCH |
+| | | 1024308 | CONSORT OF KHONSHU |
 | | | 1024309 | RUBY REVOLT |
 | | | 1024310 | VIOLET VIOLENCE
 | | | 1024500 | Goddess of Death |
+| | | 1024501 | MIDNIGHT MOON |
+| | | 1024502 | SAPPHIRE SHADOW |
 | | | 1024800 | MERCIFUL QUEEN |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
@@ -434,6 +437,7 @@
 | | | 1048503 | Phantom Purple |
 | | | 1048504 | Violet  Veil |
 | | | 1048505 | Moonlit Mirage |
+| | | 1048506 | PINNED BUTTERFLY |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049101 | WILL OF GALACTA |
 | | | 1049300 | Blood Berserker |
@@ -520,7 +524,8 @@
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
 | | | 1055103 | WILL OF GALACTA |
-| | | 1055300 | SONAR SAVIOR
+| | | 1055104 | IGNITE DAREDEVIL (2026) |
+| | | 1055300 | SONAR SAVIOR |
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
 | | | 1055502 | SHADOWED START |
