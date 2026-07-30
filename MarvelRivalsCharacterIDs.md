@@ -8,6 +8,7 @@
 | | | 1011501 | Green Scar |
 | | | 1011502 | Joe Fixit |
 | | | 1011800 | INFINITY HULK |
+| | | 1011801 | SPIDER-MAN: BRAND NEW DAY
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014300 | Dangan Ronin |
 | | | 1014301 | MARAUDER MARKSMAN |
@@ -170,6 +171,7 @@
 | | | 1028500 | X-Tron |
 | | | 1028502 | ODINFORCE ULTRON |
 | | | 1028503 | ULTRON-15 |
+| | | 1028504 | AVENGERS: AGE OF ULTRON
 | | | 1028800 | INFINITY ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
@@ -281,6 +283,7 @@
 | | | 1035510 | PETER PARKER: THE PHOTOGRAPHER |
 | | | 1036800 | Spider-Man: No Way Home |
 | | | 1036801 | MARVEL COSMIC INVASION |
+| | | 1036802 | SPIDER-MAN: BRAND NEW DAY |
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
 | | | 1037102 | BLACK & GOLD |
@@ -307,6 +310,7 @@
 | | | 1038502 | WITCH OF THE EVIL EYE |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | | | 1038801 | The Queen Of The Dead |
+| | | 1038803 | AVENGERS: AGE OF ULTRON |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
@@ -345,6 +349,7 @@
 | | | 1041502 | WINTER BUCKAROO |
 | | | 1041503 | Bucky |
 | | | 1041800 | Thunderbolts* |
+| | | 1041802 | CAPTAIN AMERICA: THE WINTER SOLDIER |
 | 1042 | Peni Parker | 1042100 | OLIVE SKIMMER |
 | | | 1042101 | Blue Tarantula | 
 | | | 1042300 | Yatsukahagi |
@@ -666,6 +671,21 @@
 | 4063 | Kingpin | | |
 | 4064 | Apocalypse | | | 
 | 4071 | God Of Stories | | Path To Doomsday Announcer | |
+| 4071 | UltronGroundMelee | | |
+| 4072 | UltronGroundRanged | | |
+| 4073 | UltronRangedDrone | | |
+| 4074 | UltronSuicide Drone | | |
+| 4075 | ULTRON | | |
+| 4076 | Zombie Proxy (For Dev) | | |
+| 4077 | UltronGroundMelee(Elite) | | |
+| 4078 | UltronGroundRanged(Elite) | | |
+| 4079 | UltronRangedDrone(Elite) | | |
+| 4080 | UltronSuicideDrone(Elite) | | |
+| 4081 | UltronRangedDrone(Small) | | |
+| 4082 | UltronSuicideDrone(Small) | | |
+| 4083 | UltronPVE | Path to Doomsday Announcer | |
+| 4084 | UltronTrackedBomber | | |
+| 4085 | UltronEyeElite | | |
 | 9501 | Hero Zero | | |
 | 9999 | Hero Zero | | |
 | ???? | Upcoming Characters | | | 
