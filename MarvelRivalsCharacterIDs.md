@@ -683,7 +683,7 @@
 | 4080 | UltronSuicideDrone(Elite) | | |
 | 4081 | UltronRangedDrone(Small) | | |
 | 4082 | UltronSuicideDrone(Small) | | |
-| 4083 | UltronPVE | Path to Doomsday Announcer | |
+| 4083 | UltronPVE | | Path to Doomsday Announcer |
 | 4084 | UltronTrackedBomber | | |
 | 4085 | UltronEyeElite | | |
 | 9501 | Hero Zero | | |
