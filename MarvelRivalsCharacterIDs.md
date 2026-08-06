@@ -12,6 +12,7 @@
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014300 | Dangan Ronin |
 | | | 1014301 | MARAUDER MARKSMAN |
+| | | 1014302 | SANDSTORM SOLDIER |
 | | | 1014500 | Thunderbolts |
 | | | 1014501 | Punisher 2099 |
 | | | 1014502 | AQUA ARSENAL |
@@ -197,6 +198,7 @@
 | | | 1030500 | Mister Knight |
 | | | 1030501 | Phoenix Knight |
 | | | 1030502 | SUAVE SPECTOR |
+| | | 1030503 | FIST OF KHONSHU |
 | | | 1030800 | Fist Of Vengeance |
 | | | 1030801 | Moon Knight Mech |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
@@ -417,10 +419,11 @@
 | | | 1047310 | WHITE WADDLE |
 | | | 1047311 | GREEN BILL |
 | | | 1047312 | MAGMA MENACE |
-| | | 1047313 | ROSY RUIN
+| | | 1047313 | ROSY RUIN |
 | | | 1047500 | Incognito Dolphin |
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark |
+| | | 1047505 | JEFF-POOL |
 | | | 1047800 | 8-BIT BASH |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
@@ -501,6 +504,9 @@
 | | | 1052303 | LIN SHAO: THE KNOCKOUT |
 | | | 1052304 | SAVAGE SPIRIT | 
 | | | 1052305 | LIVELY LION |
+| | | 1052306 | FURIOUS FLOW |
+| | | 1052308 | COBALT CRUISER |
+| | | 1052309 | BLACKENED RAGE |
 | | | 1052310 | SHOU-LAO'S CHAMPION |
 | | | 1052500 | Sword Master | 
 | | | 1052501 | Immortal Weapon of Agamotto |
@@ -573,6 +579,7 @@
 | | | 1058500 | BARRIER BUSTER |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
+| | | 1059102 | WILL OF GALACTA |
 | | | 1059300 | YOUNG BLOOD |
 | | | 1059301 | SILVER STALKER |
 | | | 1059302 | JADE JAGUAR |
@@ -613,7 +620,9 @@
 | | | 1065501 | RAIDER PRIME |
 | | | 1065502 | MIDNIGHT MIRAGE |
 | | | 1065503 | HIGH NOON |
-| 1066 | The Hood | | |
+| 1066 | The Hood | 1066100 | OBLIVION'S WHISPER |
+| | | 1066101 | SAPPHIRE SANDS |
+| | | 1066500 | SINFUL BLACKOUT |
 | 1067 | Gorr | | | 
 | 1068 | Nightcrawler | | |
 | 1069 | | | |
