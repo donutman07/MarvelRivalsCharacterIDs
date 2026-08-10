@@ -8,7 +8,7 @@
 | | | 1011501 | Green Scar |
 | | | 1011502 | Joe Fixit |
 | | | 1011800 | INFINITY HULK |
-| | | 1011801 | SPIDER-MAN: BRAND NEW DAY
+| | | 1011801 | SPIDER-MAN: BRAND NEW DAY |
 | 1014 | Punisher | 1014100 | Camo |
 | | | 1014300 | Dangan Ronin |
 | | | 1014301 | MARAUDER MARKSMAN |
@@ -146,7 +146,7 @@
 | | | 1025308 | SAPPHIRE SPLASH |
 | | | 1025309 | SUNSET SHORES |
 | | | 1025500 | Growth & Decay |
-| | | 1025501 | STORIES SURVIVORS |
+| | | 1025501 | STORIED SURVIVORS |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
