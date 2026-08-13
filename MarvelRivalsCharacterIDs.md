@@ -28,6 +28,8 @@
 | | | 1015502 | GODDESS OF THUNDER |
 | | | 1015503 | Symbiote Storm |
 | | | 1015504 | Queen of Wakanda |
+| | | 1015802 | SACRED SKIES |
+| | | 1015804 | CRIMSON CLOUDS |
 | 1016 | Loki | 1016100 | Frost Giant |
 | | | 1016101 | IGNITE Loki (2025) |
 | | | 1016300 | Shin Sagi-Shi |
@@ -188,8 +190,11 @@
 | | | 1029501 | Retro X-Uniform |
 | | | 1029502 | Phoenix Demon |
 | | | 1029503 | NETHERWORLD NOBLE |
+| | | 1029504 | SOUL SURFER |
 | | | 1029505 | BLUE BLITZ |
 | | | 1029506 | LAVENDER LIMBO |
+| | | 1029507 | BLUE BREAKER |
+| | | 1029508 | SUNSET SURF |
 | 1030 | Moon Knight | 1030100 | Golden Moonlight |
 | | | 1030101 | Blood Moon Knight |
 | | | 1030300 | Lunar General |
@@ -310,6 +315,9 @@
 | | | 1038500 | Chaos Gown |
 | | | 1038501 | Emporium Matron |
 | | | 1038502 | WITCH OF THE EVIL EYE |
+| | | 1038503 | SEASIDE SORCERESS |
+| | | 1038504 | PITCH PETAL |
+| | | 1038505 | PURPLE PETAL |
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | | | 1038801 | The Queen Of The Dead |
 | | | 1038803 | AVENGERS: AGE OF ULTRON |
@@ -345,7 +353,9 @@
 | | | 1041300 | Blood Soldier | 
 | | | 1041301 | Polarity Knight |
 | | | 1041302 | Winter's Wrath |
+| | | 1041303 | SUMMER SOLDIER |
 | | | 1041304 | STARLIT GUNSLINGER |
+| | | 1041305 | CHILL CURRENT |
 | | | 1041500 | Revolution | 
 | | | 1041501 | Winter's Veil |
 | | | 1041502 | WINTER BUCKAROO |
@@ -373,6 +383,8 @@
 | | | 1043301 | STARCRACKER |
 | | | 1043302 | GROOVY GUARDIAN |
 | | | 1043303 | GLORY GUNNER |
+| | | 1043304 | STAR SWIMMER |
+| | | 1043305 | STELLAR SPLASH |
 | | | 1043500 | MASTER OF THE SUN |
 | | | 1043501 | King of Spartax |
 | | | 1043502 | Starlit Outlaw |
@@ -598,7 +610,10 @@
 | | | 1061300 | URBAN PREDATOR |
 | | | 1061301 | PURPLE PROWL |
 | | | 1061302 | PINK PURR |
+| | | 1061304 | PEARL PAWS |
+| | | 1061305 | GOLDEN CLAWS |
 | | | 1061500 | WILD CARD |
+| | | 1061501 | COASTAL CAT |
 | 1062 | Devil Dinosaur | 1062100 | TROPICAL BEAST | 
 | | | 1062101 | CORPORATE CRUNCHER |
 | | | 1062300 | PLAYFUL PINK |
