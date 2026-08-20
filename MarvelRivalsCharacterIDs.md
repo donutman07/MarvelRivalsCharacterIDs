@@ -544,6 +544,7 @@
 | | | 1054501 | SEAT OF SPRING |
 | | | 1054502 | VERDANT VOGUE |
 | | | 1054503 | WHITE CROWN PHOENIX |
+| | | 1054504 | VIRIDIAN VOGUE |
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
@@ -553,6 +554,7 @@
 | | | 1055500 | Devil 2099 |
 | | | 1055501 | NOT DAREDEVIL |
 | | | 1055502 | SHADOWED START |
+| | | 1055503 | ATTORNEY AT LAW |
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
@@ -622,6 +624,7 @@
 | | | 1062501 | JEFF THE DINOSAUR |
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
+| | | 1063300 | ELEGANT EYE |
 | | | 1063500 | WEAPON M |
 | 1064 | Jubilee | 1064100 | COOL COMBUSTION |
 | | | 1064101 | CRIMSON CROWN |
