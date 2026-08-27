@@ -234,6 +234,7 @@
 | | | 1032304 | TINSEL TAIL |
 | | | 1032305 | RED PANDA |
 | | | 1032306 | MAUREEN ALLENE: THE PROGRAMMER |
+| | | 1032308 | ACORN DIVINITY |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
@@ -371,6 +372,7 @@
 | | | 1042304 | SKELETON |
 | | | 1042305 | BADLANDS LULLABY |
 | | | 1042306 | PENI PARKER: THE FRESHMAN |
+| | | 1042307 | LIQUID SHELL |
 | | | 1042308 | TOXIC TINT |
 | | | 1042309 | CERULEAN CORRUPTION |
 | | | 1042500 | VEN#M |
@@ -562,6 +564,7 @@
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
 | | | 1056502 | DOOM ANGEL |
+| | | 1056503 | QUEEN OF HEL |
 | 1057 | Deadpool | 1057100 | X-FORCE? |
 | | | 1057101 | Workwear Woes |
 | | | 1057102 | VIRTUS.PRO (IGNITE SERIES 2026) |
