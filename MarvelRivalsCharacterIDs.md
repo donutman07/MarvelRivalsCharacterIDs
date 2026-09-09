@@ -10,6 +10,7 @@
 | | | 1011800 | INFINITY HULK |
 | | | 1011801 | SPIDER-MAN: BRAND NEW DAY |
 | 1014 | Punisher | 1014100 | Camo |
+| | | 1014102 | VENGEFUL VIGILANTE |
 | | | 1014300 | Dangan Ronin |
 | | | 1014301 | MARAUDER MARKSMAN |
 | | | 1014302 | SANDSTORM SOLDIER |
@@ -21,7 +22,7 @@
 | | | 1014505 | Amber Annihilator |
 | | | 1014800 | Daredevil: Born Again |
 | 1015 | Storm | 1015100 | Ivory Breeze |
-| | | 1015101 | WILL OF GALACTA
+| | | 1015101 | WILL OF GALACTA |
 | | | 1015300 | QUEEN OF ORPHANS (Judicator Xiezhi) |
 | | | 1015500 | Mohawk Rock | 
 | | | 1015501 | Ultimate Wind-Rider |
@@ -43,6 +44,7 @@
 | | | 1016504 | SEASIDE SIREN |
 | | | 1016505 | SUNLIT SOVEREIGN |
 | | | 1016506 | SAPPHIRE SORCERESS |
+| | | 1016507 | THE CHRONICLER |
 | | | 1016800 | Loki Season 2 |
 | | | 1016801 | THE AVENGERS |
 | | | 1016802 | TWILIGHT AURORA |
@@ -69,6 +71,7 @@
 | | | 1018500 | God Of Magic |
 | | | 1018501 | Sorcerer Supreme of the Galaxy |
 | | | 1018800 | Doctor Strange In the Multiverse of Madness |
+| | | 1018801 | ASTRAL ARCANA |
 | 1020 | Mantis | 1020100 | KNOWHERE CORP |
 | | | 1020101 | WILL OF GALACTA |
 | | | 1020102 | BLACK & GOLD |
@@ -91,6 +94,7 @@
 | | | 1021302 | BED-STUY'S BEST |
 | | | 1021303 | TEAL TREND |
 | | | 1021304 | DAZZLING DRIP |
+| | | 1021305 | THUNDERBOLTS |
 | | | 1021500 | Ronin |
 | | | 1021501 | Freefall |
 | | | 1021502 | Binary Arrow |
@@ -106,6 +110,7 @@
 | | | 1022503 | Golden Age |
 | | | 1022504 | Capwolf |
 | | | 1022505 | PRIMAL PATRIOT |
+| | | 1022506 | ASTRAL AEGIS |
 | | | 1022801 | Avengers: Infinity War | 
 | 1023 | Rocket Raccoon | 1023100 | Rocky |
 | | | 1023101 | Will of Galacta |
@@ -149,6 +154,9 @@
 | | | 1025309 | SUNSET SHORES |
 | | | 1025500 | Growth & Decay |
 | | | 1025501 | STORIED SURVIVORS |
+| | | 1025502 | DREAMY DUO |
+| | | 1025503 | PASTEL PEACE |
+| | | 1025504 | DREAMY DAZE 
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
@@ -162,6 +170,7 @@
 | | | 1027302 | Holiday Happiness | 
 | | | 1027303 | MECHA-FLORA |
 | | | 1027304 | IRONWOOD SERPENT |
+| | | 1027305 | GROOTLACTUS |
 | | | 1027500 | Carved Traveler |
 | | | 1027501 | Symbiote Flora |
 | | | 1027502 | BIG BUDDY |
@@ -464,6 +473,7 @@
 | | | 1048504 | Violet  Veil |
 | | | 1048505 | Moonlit Mirage |
 | | | 1048506 | PINNED BUTTERFLY |
+| | | 1048507 | BUSINESS ELITE |
 | 1049 | Wolverine | 1049100 | Lone Wolf |
 | | | 1049101 | WILL OF GALACTA |
 | | | 1049300 | Blood Berserker |
@@ -534,9 +544,12 @@
 | | | 1053300 | Hellfire Protocol |
 | | | 1053301 | QUEEN OF DIAMONDS |
 | | | 1053302 | WHITE WAVE QUEEN |
+| | | 1053303 | GLITTERING GODDESS | 
 | | | 1053304 | GALA GLAM |
 | | | 1053305 | CAVIAR BLACK |
 | | | 1053306 | RAVISHING RED |
+| | | 1053307 | DARK DIAMOND |
+| | | 1053308 | GOLDEN GRACE |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | | | 1053502 | BLACK QUEEN OF THE MARAUDERS |
@@ -612,6 +625,7 @@
 | | | 1060101 | SECRET AGENT |
 | | | 1060300 | MAGICAL MINT |
 | | | 1060301 | PINK PAWS |
+| | | 1060302 | COSMIC KUMIHO |
 | | | 1060500 | YOON JI-WOO: THE LEADER |
 | | | 1060501 | COASTAL KUMIHO |
 | 1061 | Black Cat | 1061100 | GILDED SHADOW |
@@ -649,7 +663,9 @@
 | 1066 | The Hood | 1066100 | OBLIVION'S WHISPER |
 | | | 1066101 | SAPPHIRE SANDS |
 | | | 1066500 | SINFUL BLACKOUT |
-| 1067 | Gorr | | | 
+| 1067 | Gorr | 1067100 | BLUE REQUIEM | 
+| | | 1067101 | GODS' GRAVEYARD |
+| | | 1067300 | DIVINE DESTROYER | 
 | 1068 | Nightcrawler | | |
 | 1069 | | | |
 | 1070 | Forge | | | 
