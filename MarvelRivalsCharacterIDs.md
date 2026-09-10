@@ -408,6 +408,7 @@
 | 1044 | Blade | 1044100 | Daybreak |
 | | | 1044101 | WILL OF GALACTA |
 | | | 1044102 | Emerald Blade |
+| | | 1044103 | SILVERED SLAYER |
 | | | 1044300 | Polarity Edge |
 | | | 1044301 | Vampire Slayer |
 | | | 1044302 | STARLIT SHADOW |
