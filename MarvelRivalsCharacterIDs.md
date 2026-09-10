@@ -239,6 +239,7 @@
 | | | 1031317 | PURPLE PULSE |
 | | | 1031318 | CITRUS SPARK |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
+| | | 1032101 | WILL OF GALACTA |
 | | | 1032300 | Nut Rocker |
 | | | 1032301 | Cheerful Dragoness |
 | | | 1032302 | Sunshine Squirrel |
