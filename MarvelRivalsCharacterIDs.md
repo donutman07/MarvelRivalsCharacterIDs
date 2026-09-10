@@ -247,6 +247,7 @@
 | | | 1032304 | TINSEL TAIL |
 | | | 1032305 | RED PANDA |
 | | | 1032306 | MAUREEN ALLENE: THE PROGRAMMER |
+| | | 1032307 | SAVAGE SQUIRREL |
 | | | 1032308 | ACORN DIVINITY |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
