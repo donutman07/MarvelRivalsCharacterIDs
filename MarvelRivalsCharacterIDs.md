@@ -216,6 +216,7 @@
 | | | 1030501 | Phoenix Knight |
 | | | 1030502 | SUAVE SPECTOR |
 | | | 1030503 | FIST OF KHONSHU |
+| | | 1030504 | ETERNITY KNIGHT |
 | | | 1030800 | Fist Of Vengeance |
 | | | 1030801 | Moon Knight Mech |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
@@ -287,6 +288,7 @@
 | | | 1035501 | Space Knight |
 | | | 1035502 | WAR OF THE REALMS |
 | | | 1035503 | Venom Bloom |
+| | | 1035504 | PRESIDENT OZZY
 | | | 1035800 | MARVEL COSMIC INVASION
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
@@ -313,6 +315,9 @@
 | | | 1037301 | TEMPORAL TYRANT |
 | | | 1037302 | The Trial of Magneto |
 | | | 1037303 | MAGNETIC VINTAGE |
+| | | 1037304 | MASTER OF SLUMBER |
+| | | 1037304 | CLOUDED COMFORT |
+| | | 1037305 | JADE JAMMIES |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | | | 1037502 | SEAT OF AUTUMN |
@@ -453,6 +458,8 @@
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark |
 | | | 1047505 | JEFF-POOL |
+| | | 1047508 | SHARK IN SHEEP'S CLOTHING |
+| | | 1047509 | GWENPOOL |
 | | | 1047800 | 8-BIT BASH |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
@@ -652,6 +659,9 @@
 | | | 1063500 | WEAPON M |
 | 1064 | Jubilee | 1064100 | COOL COMBUSTION |
 | | | 1064101 | CRIMSON CROWN |
+| | | 1064300 | VAMPY JAMMIES |
+| | | 1064301 | VIRIDIAN VIBES |
+| | | 1054302 | BLUE BREEZES |
 | | | 1064500 | MIDNIGHT MUTANT |
 | 1065 | Rogue | 1065100 | Queen's Defense |
 | | | 1065101 | SEARING SPELLSTRIPE |
@@ -663,6 +673,7 @@
 | | | 1065502 | MIDNIGHT MIRAGE |
 | | | 1065503 | HIGH NOON |
 | | | 1065800 | X-MEN '97 SEASON 2 |
+| | | 1065801 | SLUMBER SUGAH
 | 1066 | The Hood | 1066100 | OBLIVION'S WHISPER |
 | | | 1066101 | SAPPHIRE SANDS |
 | | | 1066500 | SINFUL BLACKOUT |
