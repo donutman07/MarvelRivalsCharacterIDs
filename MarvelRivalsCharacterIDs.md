@@ -316,8 +316,8 @@
 | | | 1037302 | The Trial of Magneto |
 | | | 1037303 | MAGNETIC VINTAGE |
 | | | 1037304 | MASTER OF SLUMBER |
-| | | 1037304 | CLOUDED COMFORT |
-| | | 1037305 | JADE JAMMIES |
+| | | 1037305 | CLOUDED COMFORT |
+| | | 1037306 | JADE JAMMIES |
 | | | 1037500 | Master of Magnetism | 
 | | | 1037501 | King Magnus |
 | | | 1037502 | SEAT OF AUTUMN |
