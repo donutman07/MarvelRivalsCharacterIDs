@@ -83,6 +83,9 @@
 | | | 1020305 | Galactic Gladiator |
 | | | 1020306 | AKKABAN ACOLYTE |
 | | | 1020307 | MANDY CELESTINE: THE GREETER |
+| | | 1020308 | MORNING DEW |
+| | | 1020309 | DREAMY DEN |
+| | | 1020310 | SUNNY SNOOZE |
 | | | 1020500 | Flora Maiden |
 | | | 1020501 | STARLIT MADONNA
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
@@ -355,6 +358,7 @@
 | | | 1039506 | UNWORTHY THOR |
 | | | 1039507 | SHADOW SHOCK |
 | | | 1039508 | PURPLE PULSE |
+| | | 1039510 | KING THOR |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
 | | | 1040101 | WILL OF GALACTA |
@@ -458,6 +462,7 @@
 | | | 1047501 | Devouring Duo |
 | | | 1047502 | Business Shark |
 | | | 1047505 | JEFF-POOL |
+| | | 1047506 | INCOGNITO BLUE |
 | | | 1047508 | SHARK IN SHEEP'S CLOTHING |
 | | | 1047509 | GWENPOOL |
 | | | 1047800 | 8-BIT BASH |
@@ -583,6 +588,7 @@
 | | | 1055501 | NOT DAREDEVIL |
 | | | 1055502 | SHADOWED START |
 | | | 1055503 | ATTORNEY AT LAW |
+| | | 1055504 | DARE-DRAGON |
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
