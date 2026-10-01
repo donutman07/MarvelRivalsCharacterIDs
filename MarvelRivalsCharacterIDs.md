@@ -242,6 +242,9 @@
 | | | 1031316 | CARMINE CASSETTE |
 | | | 1031317 | PURPLE PULSE |
 | | | 1031318 | CITRUS SPARK |
+| | | 1031500 | LUNAR LUNA |
+| | | 1031501 | PINK PLANETS |
+| | | 1031502 | DARK NEBULA |
 | 1032 | Squirrel Girl | 1032100 | ARCTIC LEMMUS |
 | | | 1032101 | WILL OF GALACTA |
 | | | 1032300 | Nut Rocker |
@@ -578,6 +581,7 @@
 | | | 1054502 | VERDANT VOGUE |
 | | | 1054503 | WHITE CROWN PHOENIX |
 | | | 1054504 | VIRIDIAN VOGUE |
+| | | 1054505 | COSMIC SPARK |
 | 1055 | Daredevil | 1055100 | Fearless Origin |
 | | | 1055101 | Shenloong's Creed |
 | | | 1055102 | Aurora Twilight |
