@@ -66,6 +66,7 @@
 | | | 1018303 | PHANTOM SORCERER |
 | | | 1018304 | STEPHEN SANDERS: THE DOCTOR |
 | | | 1018305 | NAUTICAL MYSTIC |
+| | | 1018306 | AVENGERS: INFINITY WAR |
 | | | 1018307 | CRIMSON CONJURER |
 | | | 1018308 | MAGICAL MINT |
 | | | 1018500 | God Of Magic |
@@ -168,6 +169,7 @@
 | | | 1026500 | Bast's Chosen |
 | | | 1026501 | Damisa-Sarki |
 | | | 1026502 | King of Wakanda |
+| | | 1026800 | AVENGERS: INFINITY WAR |
 | 1027 | Groot | 1027100 | ABIES ALGAE |
 | | | 1027301 | YGGROOT |
 | | | 1027302 | Holiday Happiness | 
@@ -361,6 +363,7 @@
 | | | 1039506 | UNWORTHY THOR |
 | | | 1039507 | SHADOW SHOCK |
 | | | 1039508 | PURPLE PULSE |
+| | | 1039509 | THE AVENGERS |
 | | | 1039510 | KING THOR |
 | | | 1039800 | Thor: Love and Thunder |
 | 1040 | Mr. Fantastic | 1040100 | First Family |
@@ -424,6 +427,7 @@
 | | | 1044300 | Polarity Edge |
 | | | 1044301 | Vampire Slayer |
 | | | 1044302 | STARLIT SHADOW |
+| | | 1044303 | VAMPIRE KING |
 | | | 1044500 | Restful Recovery |
 | | | 1044800 | BLADE KNIGHT |
 | 1045 | Namor | 1045100 | MAUVE SUB-MARINER |
@@ -447,6 +451,7 @@
 | | | 1046501 | LIVING TRIBUNAL |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
+| | | 1047101 | RAZOR-TOOTH |
 | | | 1047300 | Cuddly Fuzzlefin |
 | | | 1047301 | Sunshine Land Shark |
 | | | 1047302 | JEFF O'LANTERN |
@@ -596,6 +601,7 @@
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
+| | | 1056102 | WILL OF GALACTA |
 | | | 1056300 | ACE OF SPADES |
 | | | 1056500 | Skuld 2099 |
 | | | 1056501 | ODIN'S BEAUTIFUL DAUGHTER |
@@ -661,11 +667,14 @@
 | | | 1062101 | CORPORATE CRUNCHER |
 | | | 1062300 | PLAYFUL PINK |
 | | | 1062301 | VIBRANT VIOLET |
+| | | 1062302 | SKELE-SAURUS |
 | | | 1062500 | CHRONO-ARMOR |
 | | | 1062501 | JEFF THE DINOSAUR |
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
+| | | 1063102 | WILL OF GALACTA |
 | | | 1063300 | ELEGANT EYE |
+| | | 1063301 | PHOENIX CYCLOPS |
 | | | 1063500 | WEAPON M |
 | 1064 | Jubilee | 1064100 | COOL COMBUSTION |
 | | | 1064101 | CRIMSON CROWN |
