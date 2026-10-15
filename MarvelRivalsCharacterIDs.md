@@ -127,6 +127,7 @@
 | | | 1023306 | GIANT PANDA |
 | | | 1023307 | ROCKY: THE TRANSFER |
 | | | 1023308 | GOLDEN ARTIFICIER |
+| | | 1023309 | TRASH KING |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
 | 1024 | Hela | 1024100 | ULTIMATE |
@@ -144,6 +145,7 @@
 | | | 1024500 | Goddess of Death |
 | | | 1024501 | MIDNIGHT MOON |
 | | | 1024502 | SAPPHIRE SHADOW |
+| | | 1024503 | THE REDEEMED |
 | | | 1024800 | MERCIFUL QUEEN |
 | 1025 | Cloak & Dagger | 1025100 | Lemon Lime |
 | | | 1025300 | Dance Partner |
@@ -349,6 +351,9 @@
 | | | 1038800 | Doctor Strange in the Multiverse of Madness |
 | | | 1038801 | The Queen Of The Dead |
 | | | 1038803 | AVENGERS: AGE OF ULTRON |
+| | | 1038804 | CHAOS WEAVER |
+| | | 1038806 | AZURE AUGURY |
+| | | 1038807 | SCARLET SPINNER |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
@@ -373,6 +378,7 @@
 | | | 1040301 | Dad-tastic Reed |
 | | | 1040302 | DANUM KET: THE PROFESSOR |
 | | | 1040303 | FANTASTIC BEACH DAD |
+| | | 1040304 | MR. MALIGNANCE |
 | | | 1040500 | The Maker |
 | | | 1040501 | Future Foundation |
 | | | 1040502 | Future Foundation (Alt.) |
@@ -532,6 +538,9 @@
 | | | 1050505 | Dune Daisy |
 | | | 1050506 | Lush Luminance |
 | | | 1050507 | Tangerine Tint |
+| | | 1050508 | UNSEEN WEAVER |
+| | | 1050509 | RUBY RITE |
+| | | 1050510 | GILDED GAZE |
 | | | 1050800 | The Fantastic Four: First Steps |
 | 1051 | The Thing | 1051100 | First Family |
 | | | 1051101 | The Unlimited |
@@ -627,7 +636,8 @@
 | | | 1057500 | MAID-POOL |
 | | | 1057501 | YAPPING YOLK |
 | | | 1057502 | POPPIN' PEACH |
-| | | 1057800 | WADE WILSON: SPIRIT SQUAD
+| | | 1057800 | WADE WILSON: SPIRIT SQUAD |
+| | | 1057801 | NURSE-POOL |
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058102 | WILL OF GALACTA |
