@@ -29,6 +29,7 @@
 | | | 1015502 | GODDESS OF THUNDER |
 | | | 1015503 | Symbiote Storm |
 | | | 1015504 | Queen of Wakanda |
+| | | 1015800 | MARVEL TŌKON: FIGHTING SOULS |
 | | | 1015802 | SACRED SKIES |
 | | | 1015804 | CRIMSON CLOUDS |
 | 1016 | Loki | 1016100 | Frost Giant |
@@ -284,7 +285,8 @@
 | | | 1034504 | Mark I |
 | | | 1034505 | IRON SAMURAI |
 | | | 1034800 | Avengers: Endgame |
-| | | 1034801 | THE AVENGERS | 
+| | | 1034801 | THE AVENGERS |
+| | | 1034802 | MARVEL TŌKON: FIGHTING SOULS |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035102 | Hyper Orange |
@@ -393,6 +395,9 @@
 | | | 1041303 | SUMMER SOLDIER |
 | | | 1041304 | STARLIT GUNSLINGER |
 | | | 1041305 | CHILL CURRENT |
+| | | 1041306 | CELESTIAL SOLDIER |
+| | | 1041307 | IRIS NEBULA |
+| | | 1041308 | PIPER NEBULA |
 | | | 1041500 | Revolution | 
 | | | 1041501 | Winter's Veil |
 | | | 1041502 | WINTER BUCKAROO |
