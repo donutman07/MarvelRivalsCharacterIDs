@@ -321,6 +321,7 @@
 | | | 1036800 | Spider-Man: No Way Home |
 | | | 1036801 | MARVEL COSMIC INVASION |
 | | | 1036802 | SPIDER-MAN: BRAND NEW DAY |
+| | | 1036803 | WORTHY SPIDER-MAN
 | 1037 | Magneto | 1037100 | UNCANNY BLACKSTEEL |
 | | | 1037101 | WILL OF GALACTA |
 | | | 1037102 | BLACK & GOLD |
@@ -561,6 +562,7 @@
 | | | 1051503 | Future Foundation (Alt.) |
 | | | 1051504 | FEAR ITSELF |
 | | | 1051505 | INFINITY THING |
+| | | 1051506 | COSMIC COOK |
 | | | 1051800 | The Fantastic Four: First Steps |
 | 1052 | Iron Fist (Lin Lie) | 1052100 | Martial Arts Savant |
 | | | 1052101 | WILL OF GALACTA |
