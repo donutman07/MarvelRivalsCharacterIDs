@@ -91,6 +91,9 @@
 | | | 1020500 | Flora Maiden |
 | | | 1020501 | STARLIT MADONNA
 | | | 1020800 | Guardians of the Galaxy Vol. 3 | 
+| | | 1020002 | CHRONAL HARMONY |
+| | | 1020004 | TWILIGHT TIME |
+| | | 1020005 | DARKENED DAY |
 | 1021 | Hawkeye | 1021100 | Tiger's Eye |
 | | | 1021101 | WILL OF GALACTA |
 | | | 1021102 | ARGENT ARCHER |
@@ -197,6 +200,7 @@
 | | | 1028503 | ULTRON-15 |
 | | | 1028504 | AVENGERS: AGE OF ULTRON
 | | | 1028800 | INFINITY ULTRON |
+| | | 1028002 | AVENGER ULTRON |
 | 1029 | Magik | 1029100 | AMETHEYST ARMOR |
 | | | 1029101 | WILL OF GALACTA |
 | | | 1029300 | Punkchild |
@@ -264,6 +268,7 @@
 | | | 1032308 | ACORN DIVINITY |
 | | | 1032500 | Urban Hunter |
 | | | 1032501 | Symbiote Squirrel |
+| | | 1032002 | CHRONAL SQUIRREL |
 | 1033 | Black Widow | 1033100 | Lethal Toxicity |
 | | | 1033300 | Lion's Heartbeat |
 | | | 1033500 | Red Runway Veil |
@@ -287,6 +292,7 @@
 | | | 1034800 | Avengers: Endgame |
 | | | 1034801 | THE AVENGERS |
 | | | 1034802 | MARVEL TŌKON: FIGHTING SOULS |
+| | | 1034002 | SILVER CENTURION |
 | 1035 | Venom | 1035100 | CYAN CLASH |
 | | | 1035101 | ANTI-VENOM |
 | | | 1035102 | Hyper Orange |
@@ -301,8 +307,9 @@
 | | | 1035501 | Space Knight |
 | | | 1035502 | WAR OF THE REALMS |
 | | | 1035503 | Venom Bloom |
-| | | 1035504 | PRESIDENT OZZY
-| | | 1035800 | MARVEL COSMIC INVASION
+| | | 1035504 | PRESIDENT OZZY |
+| | | 1035800 | MARVEL COSMIC INVASION |
+| | | 1035002 | CHROME CARNIVORE |
 | 1036 | Spider-Man | 1036100 | SCARLET SPIDER |
 | | | 1036101 | Chasm |
 | | | 1036102 | Black & Gold |
@@ -453,6 +460,7 @@
 | | | 1045502 | Phoenix King |
 | | | 1045503 | LORD OF ATLANTIS |
 | | | 1045800 | Black Panther: Wakanda Forever | 
+| | | 1045002 | CHRONAL MONARCH |
 | 1046 | Adam Warlock | 1046100 | COSMIC JADE |
 | | | 1046101 | WILL OF GALACTA |
 | | | 1046102 | King in White |
@@ -463,6 +471,7 @@
 | | | 1046500 | MAGUS |
 | | | 1046501 | LIVING TRIBUNAL |
 | | | 1046800 | Guardians of the Galaxy Vol. 3 |
+| | | 1046002 | INFINITY WATCH |
 | 1047 | Jeff the Landshark | 1047100 | ADOPTED AVENGER |
 | | | 1047101 | RAZOR-TOOTH |
 | | | 1047300 | Cuddly Fuzzlefin |
@@ -522,6 +531,7 @@
 | | | 1049503 | Winter Soldier |
 | | | 1049504 | BLOODLESS BESERKER |
 | | | 1049800 | Deadpool & Wolverine |
+| | | 1049002 | X DEATHS |
 | 1050 | Invisible Woman | 1050100 | First Family |
 | | | 1050101 | Blood Shield |
 | | | 1050103 | Will of Galacta |
@@ -591,6 +601,7 @@
 | | | 1053306 | RAVISHING RED |
 | | | 1053307 | DARK DIAMOND |
 | | | 1053308 | GOLDEN GRACE |
+| | | 1053309 | SEAT OF WINTER |
 | | | 1053500 | X-Revolution |
 | | | 1053501 | Phoenix Diamond |
 | | | 1053502 | BLACK QUEEN OF THE MARAUDERS |
@@ -617,6 +628,7 @@
 | | | 1055503 | ATTORNEY AT LAW |
 | | | 1055504 | DARE-DRAGON |
 | | | 1055800 | DAREDEVIL: BORN AGAIN SEASON 2 |
+| | | 1055002 | THE MAN WITHOUT FEAR |
 | 1056 | Angela | 1056100 | Cerulean Lightbringer |
 | | | 1056101 | Siriana's Silver |
 | | | 1056102 | WILL OF GALACTA |
@@ -656,6 +668,9 @@
 | | | 1058304 | DEAD MAN'S HAND |
 | | | 1058500 | BARRIER BUSTER |
 | | | 1058800 | X-MEN '97 SEASON 2 |
+| | | 1058801 | VERSATILE VALET |
+| | | 1058802 | PHAGE PALETTE |
+| | | 1058803 | MATCHA MAID |
 | 1059 | Elsa Bloodstone | 1059100 | APEX HUNTRESS |
 | | | 1059101 | ICY EDGE |
 | | | 1059102 | WILL OF GALACTA |
@@ -691,6 +706,7 @@
 | | | 1062302 | SKELE-SAURUS |
 | | | 1062500 | CHRONO-ARMOR |
 | | | 1062501 | JEFF THE DINOSAUR |
+| | | 1062003 | WILL OF GALACTA |
 | 1063 | Cyclops | 1063100 | SHADOWED NEMESIS |
 | | | 1063101 | FUTURISTIC FOCUS |
 | | | 1063102 | WILL OF GALACTA |
@@ -716,14 +732,17 @@
 | | | 1065801 | SLUMBER SUGAH
 | 1066 | The Hood | 1066100 | OBLIVION'S WHISPER |
 | | | 1066101 | SAPPHIRE SANDS |
+| | | 1066300 | ASTRAL OBLIVION |
 | | | 1066500 | SINFUL BLACKOUT |
 | 1067 | Gorr | 1067100 | BLUE REQUIEM | 
 | | | 1067101 | GODS' GRAVEYARD |
 | | | 1067300 | DIVINE DESTROYER | 
-| 1068 | Nightcrawler | | |
-| 1069 | | | |
+| 1068 | Nightcrawler | 1068002 | STEADFAST SWORDSMAN |
+| | | 1068007 | X-FORCE |
+| | | 1068008 | HOPE SOARED |
+| 1069 | DOOM | | |
 | 1070 | Forge | | | 
-| 1071 | Amaranth | | |
+| 1071 | Dracula | | |
 | 1057 | Professor X (Old) | | |
 | 1058 | Jia Jing (Old) | | | 
 | 1059 | Paste Pot Pete (Old) | | |
@@ -735,6 +754,7 @@
 | 1067 | Armor (Old) | | | 
 | 1068 | Hive (Old) | | | 
 | 1069 | White Fox (Old) | | |
+| 1071 | Amaranth (Old | | |
 | 4016 | Galacta Bot | | |
 | 4017 | Galacta | 4017500 | Rivals' Day 2025 |
 | 4018 | Galacta Bot (Large) | | |
