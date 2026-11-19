@@ -135,6 +135,9 @@
 | | | 1023309 | TRASH KING |
 | | | 1023500 | Symbiote Rocket |
 | | | 1023801 | Guardians of the Galaxy Vol. 3 |
+| | | 1023002 | RETRO ROCKETEER |
+| | | 1023005 | GALACTIC INVADERS |
+| | | 1023006 | STAR RACCOON |
 | 1024 | Hela | 1024100 | ULTIMATE |
 | | | 1024101 | WILL OF GALACTA |
 | | | 1024301 | Empress of the Cosmos | 
@@ -279,6 +282,7 @@
 | | | 1033505 | GOLDEN GOSSAMER |
 | | | 1033506 | TOXIC TRACE |
 | | | 1033800 | White Suit |
+| | | 1033006 | IGNITE · BLACK WIDOW (2026) |
 | 1034 | Iron Man | 1034100 | ARMOR MODEL 42 |
 | | | 1034300 | Blood Edge Armor | 
 | | | 1034301 | IRON MARINER |
@@ -497,6 +501,9 @@
 | | | 1047508 | SHARK IN SHEEP'S CLOTHING |
 | | | 1047509 | GWENPOOL |
 | | | 1047800 | 8-BIT BASH |
+| | | 1047002 | NOOB NIBBLER |
+| | | 1047006 | DARK DEVOURER |
+| | | 1047007 | PINK PILLAGER |
 | 1048 | Psylocke | 1048100 | Kirisaki Sakura |
 | | | 1048300 | Blood Kariudo |
 | | | 1048301 | Fleeting Butterfly |
@@ -689,6 +696,9 @@
 | | | 1060302 | COSMIC KUMIHO |
 | | | 1060500 | YOON JI-WOO: THE LEADER |
 | | | 1060501 | COASTAL KUMIHO |
+| | | 1060002 | JADE MAJESTY |
+| | | 1060003 | WATERMELON TOURMALINE |
+| | | 1060004 | AQUAMARINE LUPINE |
 | 1061 | Black Cat | 1061100 | GILDED SHADOW |
 | | | 1061101 | BEGUILING BLUE |
 | | | 1061300 | URBAN PREDATOR |
