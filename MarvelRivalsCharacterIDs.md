@@ -49,6 +49,9 @@
 | | | 1016800 | Loki Season 2 |
 | | | 1016801 | THE AVENGERS |
 | | | 1016802 | TWILIGHT AURORA |
+| | | 1016002 | ENVIOUS EMERLAD |
+| | | 1016003 | INDIGO ILLUSION |
+| | | 1016004 | CRIMSON CUNNING |
 | 1017 | Human Torch | 1017100 | First Family |
 | | | 1017101 | Blood Blaze |
 | | | 1017102 | SILVER SPARK |
@@ -171,6 +174,9 @@
 | | | 1025502 | DREAMY DUO |
 | | | 1025503 | PASTEL PEACE |
 | | | 1025504 | DREAMY DAZE 
+| | | 1025002 | GILDED AGATE |
+| | | 1025004 | GARNET GLEAM |
+| | | 1025005 | MALACHITE MIST |
 | 1026 | Black Panther | 1026100 | ORISHA BLOOD |
 | | | 1026101 | Golden Panther |
 | | | 1026300 | Galactic Claw |
@@ -235,6 +241,7 @@
 | | | 1030504 | ETERNITY KNIGHT |
 | | | 1030800 | Fist Of Vengeance |
 | | | 1030801 | Moon Knight Mech |
+| | | 1030002 | MOONJACK HACKER |
 | 1031 | Luna Snow | 1031100 | MINTY BEATS |
 | | | 1031300 | Shining Star |
 | | | 1031301 | Mirae 2099 |
@@ -369,6 +376,7 @@
 | | | 1038804 | CHAOS WEAVER |
 | | | 1038806 | AZURE AUGURY |
 | | | 1038807 | SCARLET SPINNER |
+| | | 1038002 | VIRTUAL INSANITY |
 | 1039 | Thor | 1039100 | MIDGARD UMBER |
 | | | 1039300 | Worthy Waves |
 | | | 1039301 | LIGHTNING FAST |
@@ -666,6 +674,9 @@
 | | | 1057502 | POPPIN' PEACH |
 | | | 1057800 | WADE WILSON: SPIRIT SQUAD |
 | | | 1057801 | NURSE-POOL |
+| | | 1057002 | MOMENT STEALER |
+| | | 1057005 | GILDED GUNNER |
+| | | 1057006 | BLUE BLADES
 | 1058 | Gambit | 1058100 | CRIMSON HEART |
 | | | 1058101 | SACRIFICIAL PAWN |
 | | | 1058102 | WILL OF GALACTA |
@@ -689,6 +700,7 @@
 | | | 1059501 | MARINE MAID | 
 | | | 1059502 | PASTEL POLISHER |
 | | | 1059503 | Primal Predator |
+| | | 1059002 | RUBY RADIANCE |
 | 1060 | White Fox | 1060100 | ROSY RECON | 
 | | | 1060101 | SECRET AGENT |
 | | | 1060300 | MAGICAL MINT |
